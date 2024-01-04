@@ -154,6 +154,17 @@
       "changeable": 1
     },
     {
+      "key": "meowtv_348D",
+      "name": "🍓蓝光┃直连",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cdn.meowtv.cn/xp/蓝光电影.json",
+      "jar": "http://meowtv.cn/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+    },
+    {
       "key": "zxzj",
       "name": "📗在线┃直连",
       "type": 3,

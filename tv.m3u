@@ -45,6 +45,13 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",风云剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",第一剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
@@ -516,33 +523,33 @@ http://www.weetai.cn/tv/meowtv-as.php?id=xzws
 http://www.weetai.cn/tv/meowtv-jy.php?id=xzws
 
 
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",动作电影
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",动作电影
 http://www.weetai.cn/tv/meowtv-as.php?id=chcdzdy
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",动作电影
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",动作电影
 http://www.weetai.cn/tv/meowtv-jy.php?id=chcdz
-#EXTINF:-1 tvg-id="高清电影" tvg-name="高清电影" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",高清电影
+#EXTINF:-1 tvg-id="高清电影" tvg-name="高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",高清电影
 http://www.weetai.cn/tv/meowtv-as.php?id=chcgqdy
-#EXTINF:-1 tvg-id="高清电影" tvg-name="高清电影" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",高清电影
+#EXTINF:-1 tvg-id="高清电影" tvg-name="高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",高清电影
 http://www.weetai.cn/tv/meowtv-jy.php?id=chcgq
-#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",家庭影院
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",家庭影院
 http://www.weetai.cn/tv/meowtv-as.php?id=chcjtyy
-#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",家庭影院
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",家庭影院
 http://www.weetai.cn/tv/meowtv-jy.php?id=chcjt
-#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",家庭影院
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",家庭影院
 http://www.weetai.cn/tv/meowtv-mg.php?id=chcjtyy
-#EXTINF:-1 tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",周星驰
+#EXTINF:-1 tvg-id="周星驰" tvg-name="周星驰" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",周星驰
 http://www.weetai.cn/tv/meowtv-hy.php?id=11342412
-#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",林正英
+#EXTINF:-1 tvg-id="林正英" tvg-name="林正英" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",林正英
 http://www.weetai.cn/tv/meowtv-hy.php?id=11342421
-#EXTINF:-1 tvg-id="港台电影" tvg-name="港台电影" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",港台电影
+#EXTINF:-1 tvg-id="港台电影" tvg-name="港台电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",港台电影
 http://www.weetai.cn/tv/meowtv-hy.php?id=880261
-#EXTINF:-1 tvg-id="欧美娱乐" tvg-name="欧美娱乐" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",欧美娱乐
+#EXTINF:-1 tvg-id="欧美娱乐" tvg-name="欧美娱乐" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",欧美娱乐
 http://www.weetai.cn/tv/meowtv-hy.php?id=21059574
-#EXTINF:-1 tvg-id="纪晓岚" tvg-name="纪晓岚" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",纪晓岚
+#EXTINF:-1 tvg-id="纪晓岚" tvg-name="纪晓岚" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",纪晓岚
 http://www.weetai.cn/tv/meowtv-hy.php?id=11342396
-#EXTINF:-1 tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",沈腾
+#EXTINF:-1 tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",沈腾
 http://www.weetai.cn/tv/meowtv-hy.php?id=11601968
-#EXTINF:-1 tvg-id="科幻五分钟" tvg-name="科幻五分钟" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",科幻五分钟
+#EXTINF:-1 tvg-id="科幻五分钟" tvg-name="科幻五分钟" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",科幻五分钟
 http://www.weetai.cn/tv/meowtv-hy.php?id=15152155
-#EXTINF:-1 tvg-id="新三国" tvg-name="新三国" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="虎牙直播",新三国
+#EXTINF:-1 tvg-id="新三国" tvg-name="新三国" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="虎牙直播",新三国
 http://www.weetai.cn/tv/meowtv-hy.php?id=11352944

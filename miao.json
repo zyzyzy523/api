@@ -1,5 +1,48 @@
 {
   "sites": [
+
+    {
+      "key": "meowtv_qysp",
+      "name": "奇艺┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/aqy.js"
+    },
+    {
+      "key": "meowtv_txsp",
+      "name": "腾讯┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/tx.js"
+    },
+    {
+      "key": "meowtv_yksp",
+      "name": "优酷┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/youku.js"
+    },
+    {
+      "key": "meowtv_mgsp",
+      "name": "芒果┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/mg.js"
+    },
+
+
     {
       "key": "meowtv_dbtj",
       "name": "豆瓣┃推荐",
@@ -694,46 +737,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    },
-    {
-      "key": "meowtv_qysp",
-      "name": "奇艺┃视频",
-      "type": 3,
-      "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.meowtv.cn/js/奇艺视频.js"
-    },
-    {
-      "key": "meowtv_txsp",
-      "name": "腾讯┃视频",
-      "type": 3,
-      "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.meowtv.cn/js/腾讯视频.js"
-    },
-    {
-      "key": "meowtv_yksp",
-      "name": "优酷┃视频",
-      "type": 3,
-      "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.meowtv.cn/js/优酷视频.js"
-    },
-    {
-      "key": "meowtv_mgsp",
-      "name": "芒果┃视频",
-      "type": 3,
-      "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.meowtv.cn/js/芒果视频.js"
     },
     {
       "key": "meowtv_djsp",

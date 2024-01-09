@@ -1,4 +1,11 @@
 {
+  "lives": [{
+    "name": "live",
+    "type": 0,
+    "url": "https://szyyds.cn/tv/live/x.txt",
+    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo": "https://epg.112114.xyz/logo/{name}.png"
+  }],
   "sites": [
 
     {
@@ -19,7 +26,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/tx.js"
+      "ext": "./js/tx.js",
+      "jar": "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD"
     },
     {
       "key": "meowtv_yksp",
@@ -29,7 +37,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/youku.js"
+      "ext": "./js/youku.js",
+      "jar": "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD"
     },
     {
       "key": "meowtv_mgsp",
@@ -39,7 +48,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/mg.js"
+      "ext": "./js/mg.js",
+      "jar": "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD"
     },
 
 
@@ -1155,17 +1165,7 @@
       "url": "http://jx.meowtv.cn/?url="
     }
   ],
-  "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "playerType": 1,
-      "url": "http://www.weetai.cn/mtvzb.txt",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+
   "spider": "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD",
   "wallpaper": "http://tool.teyonds.com/api",
   "ijk": [

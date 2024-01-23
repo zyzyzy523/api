@@ -283,7 +283,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/秋霞影视.js"
+      "ext": "./js/秋霞影视.js"
     },
     {
       "key": "meowtv_mays",
@@ -293,7 +293,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/米爱影视.js"
+      "ext": "./js/米爱影视.js"
     },
     {
       "key": "meowtv_ynys",
@@ -303,7 +303,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
+      "ext": "./json/鸭奈影视.json",
       "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
@@ -314,7 +314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
+      "ext": "./json/奈飞影视.json",
       "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
@@ -325,7 +325,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/TVB云播.json",
+      "ext": "./json/TVB云播.json",
       "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD"
     },
     {

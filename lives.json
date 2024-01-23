@@ -325,7 +325,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/TVB云播.json"
+      "ext": "http://cdn.teyonds.com/xp/TVB云播.json",
+      "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD"
     },
     {
       "key": "虎牙直播js",

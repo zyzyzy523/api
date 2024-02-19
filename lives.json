@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
+  "spider": "./jar/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -22,7 +22,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy66.com/"
+      "ext": "https://www.czzy88.com/"
     },
     {
       "key": "南瓜",
@@ -43,6 +43,26 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+    },
+    {
+      "key": "酷看",
+      "name": "💡酷看┃App",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "率率",
+      "name": "🌸率率┃App",
+      "type": 3,
+      "api": "csp_AppLd",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="
     },
     {
       "key": "萌米",

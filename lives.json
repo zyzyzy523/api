@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e",
+  "spider": "./jar/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -22,7 +22,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy88.com/"
+      "ext": "https://www.czzy55.com/"
     },
     {
       "key": "南瓜",
@@ -480,7 +480,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -507,16 +507,6 @@
       "name": "🙀盘Se┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "七夜",
-      "name": "😾七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,

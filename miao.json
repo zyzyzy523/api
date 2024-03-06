@@ -41,17 +41,6 @@
       "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
     },
     {
-      "key": "meowtv_Atys",
-      "name": "奥特┃影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
-    },
-    {
       "key": "meowtv_jhys",
       "name": "One ┃影视",
       "type": 3,

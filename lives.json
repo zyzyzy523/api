@@ -25,15 +25,6 @@
       "ext": "https://www.czzy55.com/"
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,

@@ -479,6 +479,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./js/mg.js"
+    },
+    {
+      "key": "drpy_js_我的哔哩",
+      "name": "B站┃合集",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/我的哔哩.js"
     }
   ],
   "parses": [

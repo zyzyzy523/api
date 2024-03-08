@@ -448,7 +448,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/aqy.js"
+      "ext": "./js/奇艺视频.js"
     },
     {
       "key": "meowtv_txsp",
@@ -458,7 +458,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/tx.js"
+      "ext": "./js/腾讯视频.js"
     },
     {
       "key": "meowtv_yksp",
@@ -468,7 +468,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/youku.js"
+      "ext": "./js/优酷视频.js"
     },
     {
       "key": "meowtv_mgsp",
@@ -478,7 +478,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/mg.js"
+      "ext": "./js/芒果视频.js"
+    },
+    {
+      "key": "meowtv_sgys",
+      "name": "搜狗┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/搜狗视频.js"
     },
     {
       "key": "drpy_js_我的哔哩",

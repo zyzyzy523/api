@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb",
+  "spider": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -63,6 +63,35 @@
       "searchable": 1,
       "quickSearch": 1,
       "timeout": 15,
+      "changeable": 1
+    },
+    {
+      "key": "白嫖",
+      "name": "👻白飘┃无广",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "原创",
+      "name": "☀原创┃无广",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "短剧",
+      "name": "🌈上头┃短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1
     },
     {

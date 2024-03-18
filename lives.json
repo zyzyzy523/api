@@ -544,6 +544,11 @@
   ],
   "parses": [
     {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
       "name": "JSON",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="

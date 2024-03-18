@@ -21,7 +21,7 @@
  */
 
 var rule = {
-    title:'我的哔哩',
+    title:'MeowTV',
     host:'https://api.bilibili.com',
     // homeUrl:'/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
     homeUrl:'/x/web-interface/ranking/v2?rid=0&type=origin', // 排行 > 排行榜 > 原创
@@ -114,7 +114,7 @@ var rule = {
         // "Cookie":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/txt/cookie.txt"
         "Cookie":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt"
     },
-    timeout:5000,
+    timeout:30000,
     limit:8,
     play_parse:true,
     lazy:`js:

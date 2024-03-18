@@ -86,6 +86,63 @@
       "changeable": 1
     },
     {
+      "key": "meowtv_qysp",
+      "name": "奇艺┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/奇艺视频.js"
+    },
+    {
+      "key": "meowtv_txsp",
+      "name": "腾讯┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/腾讯视频.js"
+    },
+    {
+      "key": "meowtv_yksp",
+      "name": "优酷┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/优酷视频.js"
+    },
+    {
+      "key": "meowtv_mgsp",
+      "name": "芒果┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/芒果视频.js"
+    },
+    {
+      "key": "meowtv_sgys",
+      "name": "搜狗┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/搜狗视频.js"
+    },
+    {
+      "key": "drpy_js_我的哔哩",
+      "name": "B站┃合集",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/我的哔哩.js"
+    },
+    {
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,
@@ -483,72 +540,9 @@
       "filterable": 1,
       "ext": "./json/TVB云播.json",
       "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD"
-    },
-
-    {
-      "key": "meowtv_qysp",
-      "name": "奇艺┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/奇艺视频.js"
-    },
-    {
-      "key": "meowtv_txsp",
-      "name": "腾讯┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/腾讯视频.js"
-    },
-    {
-      "key": "meowtv_yksp",
-      "name": "优酷┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/优酷视频.js"
-    },
-    {
-      "key": "meowtv_mgsp",
-      "name": "芒果┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/芒果视频.js"
-    },
-    {
-      "key": "meowtv_sgys",
-      "name": "搜狗┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/搜狗视频.js"
-    },
-    {
-      "key": "drpy_js_我的哔哩",
-      "name": "B站┃合集",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/我的哔哩.js"
     }
   ],
   "parses": [
-    {
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-    },
     {
       "name": "JSON",
       "type": 0,
@@ -558,6 +552,11 @@
       "name": "MeowTV",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
     }
   ],
   "doh": [

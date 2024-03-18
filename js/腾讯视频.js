@@ -17,7 +17,7 @@ var rule = {
     headers:{
         'User-Agent':'PC_UA'
     },
-    timeout:5000,
+    timeout:30000,
     // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
     cate_exclude:'会员|游戏|全部',
     class_name:'精选&电视剧&电影&综艺&动漫&少儿&纪录片',

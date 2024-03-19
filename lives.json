@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
+  "spider": "./jar/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -54,6 +54,15 @@
       "playerType": 2,
       "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=",
       "timeout": 15
+    },
+    {
+      "key": "苹果",
+      "name": "🍎小苹果┃App",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "嘀嘀",

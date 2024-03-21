@@ -14,6 +14,15 @@
   ],
   "sites": [
     {
+      "key": "苹果",
+      "name": "🍎小苹果┃App",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Czsapp",
       "name": "📔厂长┃无广",
       "type": 3,
@@ -54,15 +63,6 @@
       "playerType": 2,
       "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=",
       "timeout": 15
-    },
-    {
-      "key": "苹果",
-      "name": "🍎小苹果┃App",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "嘀嘀",

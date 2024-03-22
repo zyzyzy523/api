@@ -1,5 +1,5 @@
 var rule = {
-    title:'MeowTV',
+    title:'svip',
     host:'https://waptv.sogou.com',
     homeUrl:'',
     searchUrl:'/film/result?ie=utf8&query=**',

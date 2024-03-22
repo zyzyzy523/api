@@ -95,7 +95,7 @@
       "changeable": 1
     },
     {
-      "key": "meowtv_qysp",
+      "key": "drpy_js_qysp",
       "name": "奇艺┃视频",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -105,7 +105,7 @@
       "ext": "./js/奇艺视频.js"
     },
     {
-      "key": "meowtv_txsp",
+      "key": "drpy_js_txsp",
       "name": "腾讯┃视频",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -115,7 +115,7 @@
       "ext": "./js/腾讯视频.js"
     },
     {
-      "key": "meowtv_yksp",
+      "key": "drpy_js_yksp",
       "name": "优酷┃视频",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -125,7 +125,7 @@
       "ext": "./js/优酷视频.js"
     },
     {
-      "key": "meowtv_mgsp",
+      "key": "drpy_js_mgsp",
       "name": "芒果┃视频",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -135,7 +135,7 @@
       "ext": "./js/芒果视频.js"
     },
     {
-      "key": "meowtv_sgys",
+      "key": "drpy_js_sgys",
       "name": "搜狗┃视频",
       "type": 3,
       "api": "./js/drpy2.min.js",
@@ -143,6 +143,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./js/搜狗视频.js"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "360影视┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/360影视.js"
     },
     {
       "key": "drpy_js_我的哔哩",
@@ -568,7 +575,7 @@
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "MeowTV",
+      "name": "meow",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
     },

@@ -354,16 +354,6 @@
       "changeable": 1
     },
 
-    {
-      "key": "聚短视频js",
-      "name": "📽️聚短┃视频",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
 
     {
       "key": "YiSo",
@@ -503,16 +493,6 @@
       "filterable": 1,
       "ext": "[排序:lz线路,kuaik]",
       "jar": "./jar/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
-    },
-    {
-      "key": "meowtv_qxys",
-      "name": "秋霞┃影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/秋霞影视.js"
     },
     {
       "key": "meowtv_mays",

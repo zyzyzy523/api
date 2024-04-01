@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;602fb3226d777850053484cdeb2f3296",
+  "spider": "./jar/fan.txt;md5;800d19942365f5754f20c532cffd2242",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -23,16 +23,16 @@
       "changeable": 1
     },
     {
-      "key": "Czsapp",
+      "key": "厂长",
       "name": "📔厂长┃无广",
       "type": 3,
       "api": "csp_Czsapp",
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "timeout": 15,
-      "ext": "https://www.czzy55.com/"
+      "ext": "https://www.czzy77.com/"
     },
     {
       "key": "酷看",
@@ -82,7 +82,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com:9092/"
     },
     {
       "key": "原创",

@@ -65,16 +65,6 @@
       "timeout": 15
     },
     {
-      "key": "嘀嘀",
-      "name": "☀嘀嘀┃无广",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "timeout": 15,
-      "changeable": 1
-    },
-    {
       "key": "白嫖",
       "name": "👻白飘┃无广",
       "type": 3,

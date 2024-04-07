@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;800d19942365f5754f20c532cffd2242",
+  "spider": "./jar/fan.txt;md5;eb12fd6d2a7ac3be4ec3b8a65fae192f",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -35,34 +35,14 @@
       "ext": "https://www.czzy77.com/"
     },
     {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
+      "key": "原创",
+      "name": "☀原创┃无广",
       "type": 3,
-      "api": "csp_Kkys",
+      "api": "csp_YCyz",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 15
-    },
-    {
-      "key": "Xinsj",
-      "name": "👓视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/",
-      "timeout": 15
-    },
-    {
-      "key": "追剧",
-      "name": "💥追剧┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=",
-      "timeout": 15
+      "changeable": 1
     },
     {
       "key": "白嫖",
@@ -76,14 +56,34 @@
       "ext": "https://www.baipiaoys.com:9092/"
     },
     {
-      "key": "原创",
-      "name": "☀原创┃无广",
+      "key": "酷看",
+      "name": "💡酷看┃秒播",
       "type": 3,
-      "api": "csp_YCyz",
+      "api": "csp_Kkys",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "视觉",
+      "name": "👓视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "追剧",
+      "name": "💥追剧┃App",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=",
+      "timeout": 15
     },
     {
       "key": "玩偶",
@@ -93,7 +93,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://api.wogg.xyz/",
+        "danMu": "弹"
+      }
     },
     {
       "key": "drpy_js_qysp",
@@ -169,70 +175,75 @@
       "changeable": 1
     },
     {
-      "key": "DiDuan",
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "农民",
+      "name": "🌾农民┃秒播",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+    },
+    {
+      "key": "七七",
+      "name": "👒七七┃秒播",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "低端",
       "name": "⏮️低端┃外剧",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 15
+      "changeable": 1
     },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 15
-    },
-    {
-      "key": "77",
-      "name": "👒七七┃秒播",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 15
-    },
-    {
-      "key": "萌米",
-      "name": "👀萌米┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "timeout": 15,
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
-    },
-
     {
       "key": "毛驴",
       "name": "🍓毛驴┃直连",
       "type": 3,
       "api": "csp_MLYS",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "timeout": 15,
       "ext": "https://www.maolvys.com/"
     },
     {
-      "key": "zxzj",
-      "name": "🍊在线┃外剧",
+      "key": "萌米",
+      "name": "👀萌米┃App",
       "type": 3,
-      "api": "csp_Zxzj",
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
-      "timeout": 15,
-      "changeable": 1,
-      "ext": "https://www.zxzja.com/"
+      "changeable": 1
     },
     {
       "key": "一起看 ",
@@ -241,39 +252,28 @@
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 15
+      "changeable": 1
     },
     {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
+      "key": "zxzj",
+      "name": "🍊在线┃外剧",
       "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
+      "api": "csp_Zxzj",
       "timeout": 15,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "🍄比特┃秒播",
-      "type": 3,
-      "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "timeout": 15
+      "ext": "https://www.zxzja.com/"
     },
     {
       "key": "Lib",
-      "name": "🌟利播┃直连",
+      "name": "🌟立播┃直连",
       "type": 3,
       "api": "csp_Libvio",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "timeout": 15,
       "ext": "https://www.libvio.pw/"
     },
     {
@@ -281,21 +281,11 @@
       "name": "🏝奥特┃直连",
       "type": 3,
       "api": "csp_Auete",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "timeout": 15,
       "ext": "https://auete.pro/"
-    },
-    {
-      "key": "csp_SP33",
-      "name": "📺三三┃解析",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
     },
     {
       "key": "贱贱",
@@ -306,7 +296,7 @@
       "changeable": 1,
       "playerType": "1",
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
     },
     {
       "key": "新6V",
@@ -318,6 +308,7 @@
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
     },
+
     {
       "key": "csp_Dm84",
       "name": "🚌动漫┃巴士",
@@ -355,7 +346,19 @@
       "changeable": 1
     },
 
-
+    {
+      "key": "夸搜",
+      "name": "🐺夸搜┃搜索",
+      "type": 3,
+      "api": "csp_QuarkPanso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
     {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
@@ -364,17 +367,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSou",
@@ -384,7 +380,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "UpYun",
@@ -394,7 +393,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSearch",
@@ -404,7 +406,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "meowtv_348D",

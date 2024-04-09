@@ -1,11 +1,11 @@
 {
-  "spider": "./jar/fan.txt;md5;eb12fd6d2a7ac3be4ec3b8a65fae192f",
+  "spider": "./jar/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
       "name": "TV",
       "type": 0,
-      "boot": false,
+      "boot": true,
       "url": "./tv.m3u",
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",

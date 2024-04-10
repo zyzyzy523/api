@@ -5,7 +5,7 @@
     {
       "name": "TV",
       "type": 0,
-      "boot": true,
+      "boot": false,
       "url": "./tv.m3u",
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -32,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://www.czys01.com/"
     },
     {
       "key": "原创",

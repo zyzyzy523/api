@@ -2,6 +2,222 @@
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+
+      {
+          "key": "meowtv_tvbb",
+          "name": "TVB ┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "./json/TVB云播.json",
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD"
+      },
+      {
+          "key": "meowtv_phys",
+          "name": "胖虎┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/胖虎影视.json"
+      },
+      {
+          "key": "meowtv_scys",
+          "name": "圣城┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/圣城影视.json"
+      },
+      {
+          "key": "meowtv_wwys",
+          "name": "五五┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/五五影视.json"
+      },
+      {
+          "key": "meowtv_Hhys",
+          "name": "黑狐┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/黑狐影视.json"
+      },
+      {
+          "key": "meowtv_kcys",
+          "name": "酷茶┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/酷茶影视.json"
+      },
+      {
+          "key": "meowtv_ggys",
+          "name": "光棍┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/光棍影视.json"
+      },
+
+
+
+
+
+
+      {
+          "key": "meowtv_348D",
+          "name": "\uD83D\uDC40蓝光┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "./json/lgyy.json",
+          "jar": "./jar/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      },
+
+      {
+          "key": "meowtv_phys",
+          "name": "胖虎┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/胖虎影视.json"
+      },
+      {
+          "key": "meowtv_scys",
+          "name": "圣城┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/圣城影视.json"
+      },
+      {
+          "key": "meowtv_wwys",
+          "name": "五五┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/五五影视.json"
+      },
+      {
+          "key": "meowtv_Hhys",
+          "name": "黑狐┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/黑狐影视.json"
+      },
+      {
+          "key": "meowtv_kcys",
+          "name": "酷茶┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/酷茶影视.json"
+      },
+      {
+          "key": "meowtv_ggys",
+          "name": "光棍┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD",
+          "ext": "./json/光棍影视.json"
+      },
+      {
+          "key": "meowtv_akys",
+          "name": "爱看┃影视",
+          "type": 3,
+          "api": "csp_Ikanbot",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "[排序:lz线路,kuaik]",
+          "jar": "./jar/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+      },
+      {
+          "key": "meowtv_mays",
+          "name": "米爱┃影视",
+          "type": 3,
+          "api": "./js/drpy2.min.js",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "./js/米爱影视.js"
+      },
+      {
+          "key": "meowtv_ynys",
+          "name": "鸭奈┃影视",
+          "type": 3,
+          "api": "csp_XYQHiker",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "./json/鸭奈影视.json",
+          "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+      },
+      {
+          "key": "meowtv_Nfys",
+          "name": "奈飞┃影视",
+          "type": 3,
+          "api": "csp_XYQHiker",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "./json/奈飞影视.json",
+          "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+      },
+      {
+          "key": "meowtv_tvbb",
+          "name": "TVB ┃影视",
+          "type": 3,
+          "api": "csp_XBPQ",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "./json/TVB云播.json",
+          "jar": "./jar/meow1;md5;D1115D99527D75948D095085B1407ADD"
+      },
       {
           "key": "豆豆",
           "name": "🌕公众号【神秘的哥哥们】",

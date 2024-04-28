@@ -26,13 +26,13 @@
       "key": "厂长",
       "name": "📔厂长┃无广",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.cz233.com/"
+      "ext": "https://www.czys.top/"
     },
     {
       "key": "原创",
@@ -186,17 +186,6 @@
       "changeable": 1
     },
     {
-      "key": "农民",
-      "name": "🌾农民┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
-    },
-    {
       "key": "七七",
       "name": "👒七七┃秒播",
       "type": 3,
@@ -205,6 +194,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "🍙糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/nmys.json"
     },
     {
       "key": "低端",
@@ -350,11 +350,12 @@
       "key": "夸搜",
       "name": "🐺夸搜┃搜索",
       "type": 3,
-      "api": "csp_QuarkPanso",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
+        "pan": "quark",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }

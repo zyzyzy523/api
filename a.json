@@ -56,36 +56,6 @@
       "ext": "https://www.baipiaoys.com:9092/"
     },
     {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "视觉",
-      "name": "👓视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
-    },
-    {
-      "key": "追剧",
-      "name": "💥追剧┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=",
-      "timeout": 15
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -102,85 +72,11 @@
       }
     },
     {
-      "key": "drpy_js_qysp",
-      "name": "奇艺┃视频",
+      "key": "酷看",
+      "name": "💡酷看┃秒播",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/奇艺视频.js"
-    },
-    {
-      "key": "drpy_js_txsp",
-      "name": "腾讯┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/腾讯视频.js"
-    },
-    {
-      "key": "drpy_js_yksp",
-      "name": "优酷┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/优酷视频.js"
-    },
-    {
-      "key": "drpy_js_mgsp",
-      "name": "芒果┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/芒果视频.js"
-    },
-    {
-      "key": "drpy_js_sgys",
-      "name": "搜狗┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/搜狗视频.js"
-    },
-    {
-      "key": "drpy_js_360影视",
-      "name": "360影视┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/360影视.js"
-    },
-    {
-      "key": "drpy_js_我的哔哩",
-      "name": "B站┃合集",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/我的哔哩.js"
-    },
-    {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
+      "api": "csp_Kkys",
       "timeout": 15,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -206,6 +102,38 @@
       "changeable": 1,
       "ext": "./json/nmys.json"
     },
+    {
+      "key": "视觉",
+      "name": "👓视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "追剧",
+      "name": "💥追剧┃App",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc=",
+      "timeout": 15
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
     {
       "key": "低端",
       "name": "⏮️低端┃外剧",
@@ -286,6 +214,79 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/"
+    },
+    {
+      "key": "drpy_js_qysp",
+      "name": "奇艺┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/奇艺视频.js"
+    },
+    {
+      "key": "drpy_js_txsp",
+      "name": "腾讯┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/腾讯视频.js"
+    },
+    {
+      "key": "drpy_js_yksp",
+      "name": "优酷┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/优酷视频.js"
+    },
+    {
+      "key": "drpy_js_mgsp",
+      "name": "芒果┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/芒果视频.js"
+    },
+    {
+      "key": "drpy_js_sgys",
+      "name": "搜狗┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/搜狗视频.js"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "360影视┃视频",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/360影视.js"
+    },
+    {
+      "key": "drpy_js_我的哔哩",
+      "name": "B站┃合集",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/我的哔哩.js"
+    },
+    {
+      "key": "短剧",
+      "name": "🌈上头┃短剧",
+      "type": 3,
+      "api": "csp_Djuu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "贱贱",
@@ -466,7 +467,6 @@
       "ext": "./json/奈飞影视.json",
       "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
     }
-
   ],
   "parses": [
     {

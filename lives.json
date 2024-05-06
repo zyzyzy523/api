@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;ca8aebf22c8948c98104d094d5f87c73",
+  "spider": "./jar/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -101,6 +101,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "./json/nmys.json"
+    },
+    {
+      "key": "小点",
+      "name": "💥小点┃多线",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
     },
     {
       "key": "视觉",

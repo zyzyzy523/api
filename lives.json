@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
+  "spider": "./jar/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -32,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czys.top/"
+      "ext": "https://czzy.top/"
     },
     {
       "key": "原创",
@@ -67,7 +67,7 @@
         "aliToken": "tvfan/token.txt",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd",
-        "siteUrl": "https://api.wogg.xyz/",
+        "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
     },
@@ -76,16 +76,6 @@
       "name": "💡酷看┃秒播",
       "type": 3,
       "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "七七",
-      "name": "👒七七┃秒播",
-      "type": 3,
-      "api": "csp_Kunyu77",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -122,6 +112,27 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
       "key": "追剧",
@@ -166,15 +177,6 @@
       "ext": "https://www.maolvys.com/"
     },
     {
-      "key": "萌米",
-      "name": "👀萌米┃App",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
       "key": "比特",
       "name": "🍄比特┃秒播",
       "type": 3,
@@ -201,7 +203,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzja.com/"
+      "ext": "https://www.zxzjhd.com/"
     },
     {
       "key": "Lib",

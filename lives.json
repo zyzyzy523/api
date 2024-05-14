@@ -426,6 +426,17 @@
       }
     },
     {
+      "key": "华人影院",
+      "name": "华人影院┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar",
+      "ext": {
+        "分类url": "https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$drama#电影$movie"
+      }
+    },
+    {
       "key": "meowtv_mays",
       "name": "米爱┃影视",
       "type": 3,

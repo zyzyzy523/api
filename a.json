@@ -10,6 +10,13 @@
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "live",
+      "type": 0,
+      "boot": false,
+      "url": "./tv.text",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
   "sites": [
@@ -423,6 +430,17 @@
       "ext": {
         "aliToken": "tvfan/token.txt",
         "from": "4k|auto|fhd"
+      }
+    },
+    {
+      "key": "华人影院",
+      "name": "华人影院┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/xyqxbpq.jar",
+      "ext": {
+        "分类url": "https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$drama#电影$movie"
       }
     },
     {

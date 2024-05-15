@@ -10,7 +10,7 @@
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
   ],
   "sites": [
     {
@@ -511,6 +511,11 @@
       "name": "777",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "MeowTV",
+      "type": 1,
+      "url": "http://jx.meowtv.top/?url="
     }
   ],
   "doh": [

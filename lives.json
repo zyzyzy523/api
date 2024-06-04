@@ -341,6 +341,13 @@
       "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
+      "key": "drpy_js_蓝光影院",
+      "name": "蓝光影院┃影视",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/lgyy.js"
+    },
+    {
       "key": "贱贱",
       "name": "🐭贱贱┃P2P",
       "type": 3,

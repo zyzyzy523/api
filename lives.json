@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.txt;md5;aa164c88dfaf62b98b44fc6086a77fef",
+  "spider": "./jar/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -72,17 +72,6 @@
       "ext": "https://www.80yy3.com/"
     },
     {
-      "key": "糯米",
-      "name": "🍙糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/nmys.json"
-    },
-    {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
@@ -124,6 +113,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
+    },
+    {
+      "key": "蛋蛋",
+      "name": "🍓蛋蛋┃多线",
+      "type": 3,
+      "api": "csp_Cddys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "热播",
@@ -199,17 +198,7 @@
       "changeable": 1,
       "ext": "https://auete.pro/"
     },
-    {
-      "key": "毛驴",
-      "name": "🍓毛驴┃多线",
-      "type": 3,
-      "api": "csp_MLYS",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
+
     {
       "key": "drpy_js_qysp",
       "name": "奇艺┃视频",

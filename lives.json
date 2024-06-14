@@ -1,12 +1,12 @@
 {
-  "spider": "./jar/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
+  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
       "name": "TV",
       "type": 0,
       "boot": true,
-      "url": "./tv.m3u",
+      "url": "https://gitee.com/sierpin/lives/raw/main/tv.m3u",
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -220,7 +220,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "./jar/okjpg.txt"
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt"
     },
     {
       "key": "JOJO",
@@ -231,7 +231,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "./jar/okjpg.txt"
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt"
     },
     {
       "key": "️爱看Bot",
@@ -242,7 +242,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "./jar/okjpg.txt"
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt"
     },
     {
       "key": "sp360",
@@ -253,7 +253,7 @@
       "filterable": 1,
       "changeable": 1,
       "timeout": 25,
-      "jar": "./jar/okjpg.txt"
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt"
     },
 
 
@@ -261,65 +261,65 @@
       "key": "drpy_js_qysp",
       "name": "奇艺┃视频",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/奇艺视频.js"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/奇艺视频.js"
     },
     {
       "key": "drpy_js_txsp",
       "name": "腾讯┃视频",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/腾讯视频.js"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/腾讯视频.js"
     },
     {
       "key": "drpy_js_yksp",
       "name": "优酷┃视频",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/优酷视频.js"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/优酷视频.js"
     },
     {
       "key": "drpy_js_mgsp",
       "name": "芒果┃视频",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/芒果视频.js"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/芒果视频.js"
     },
     {
       "key": "drpy_js_sgys",
       "name": "搜狗┃视频",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/搜狗视频.js"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/搜狗视频.js"
     },
     {
       "key": "drpy_js_360影视",
       "name": "360影视┃视频",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/360影视.js"
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/360影视.js"
     },
     {
       "key": "drpy_js_我的哔哩",
       "name": "B站┃合集",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/我的哔哩.js"
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/我的哔哩.js"
     },
 
     {
@@ -327,7 +327,7 @@
       "name": "华人影院┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/xyqxbpq.jar",
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/xyqxbpq.jar",
       "ext": {
         "分类url": "https://www.hdvod.cc/vod/filter/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电视剧$drama#电影$movie"
@@ -337,11 +337,11 @@
       "key": "meowtv_mays",
       "name": "米爱┃影视",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/米爱影视.js"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/米爱影视.js"
     },
     {
       "key": "meowtv_348D",
@@ -351,8 +351,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/lgyy.json",
-      "jar": "./jar/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/json/lgyy.json",
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
     },
     {
       "key": "meowtv_akys",
@@ -363,7 +363,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "[排序:lz线路,kuaik]",
-      "jar": "./jar/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"
     },
     {
       "key": "meowtv_ynys",
@@ -373,8 +373,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/鸭奈影视.json",
-      "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/json/鸭奈影视.json",
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "meowtv_Nfys",
@@ -384,15 +384,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/奈飞影视.json",
-      "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "ext": "https://gitee.com/sierpin/lives/raw/main/json/奈飞影视.json",
+      "jar": "https://gitee.com/sierpin/lives/raw/main/jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "drpy_js_蓝光影院",
       "name": "蓝光影院┃影视",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/lgyy.js"
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/lgyy.js"
     },
     {
       "key": "贱贱",
@@ -402,8 +402,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/jp.js"
+      "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js",
+      "ext": "https://gitee.com/sierpin/lives/raw/main/js/jp.js"
     },
     {
       "key": "Dm84",

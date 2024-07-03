@@ -223,6 +223,91 @@
     },
 
 
+    {
+      "key": "Wexxiongdiys",
+      "name": "💥基友┃影视💥",
+      "type": 3,
+      "api": "csp_Wexxiongdiys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+    {
+      "key": "Wexyuyueys",
+      "name": "💥雨落┃影视💥",
+      "type": 3,
+      "api": "csp_Wexyuyueys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+    {
+      "key": "Wexkukantv",
+      "name": "😁看呗┃影视😁",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+    {
+      "key": "mingriyingshi",
+      "name": "😁明日┃影视😁",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+
+    {
+      "key": "WexTiantianys",
+      "name": "🎇明天┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexTiantianys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+    {
+      "key": "Wexjiohub",
+      "name": "🎇啾啾┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexjiohub",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+
+    {
+      "key": "WexShijuedy",
+      "name": "🎇看看┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexShijuedy",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+    {
+      "key": "Wexsaohuo",
+      "name": "🎇火火┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🎇伯伯┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./jar/wangxiaoer.txt"
+    },
+
+
 
     {
       "key": "天天",
@@ -270,46 +355,7 @@
     },
 
 
-    {
-      "key": "drpy_js_qysp",
-      "name": "奇艺┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/奇艺视频.js"
-    },
-    {
-      "key": "drpy_js_txsp",
-      "name": "腾讯┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/腾讯视频.js"
-    },
-    {
-      "key": "drpy_js_yksp",
-      "name": "优酷┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/优酷视频.js"
-    },
-    {
-      "key": "drpy_js_mgsp",
-      "name": "芒果┃视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/芒果视频.js"
-    },
+
     {
       "key": "drpy_js_sgys",
       "name": "搜狗┃视频",

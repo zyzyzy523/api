@@ -1,12 +1,12 @@
 {
-  "spider": "./jar/fan.txt;md5;fc1b4f17aa8de6068500090f33de88b9",
+  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/fan.txt;md5;fc1b4f17aa8de6068500090f33de88b9",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
       "name": "TV",
       "type": 0,
       "boot": true,
-      "url": "./tv.m3u",
+      "url": "https://gitee.com/sierpin/lives/raw/main/tv.m3u",
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -36,37 +36,37 @@
 
 
 
-    {"key": "Wexxiongdiys", "name": "💥基友┃影视💥", "type": 3, "api": "csp_Wexxiongdiys", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
-    {"key": "Wexyuyueys","name": "💥雨落┃影视💥", "type": 3, "api": "csp_Wexyuyueys", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
-    {"key": "Wexkukantv","name": "😁看呗┃影视😁", "type": 3, "api": "csp_Wexkukantv", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
-    {"key": "mingriyingshi", "name": "😁明日┃影视😁", "type": 3, "api": "csp_WexMingriys", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
-    {"key": "WexTiantianys", "name": "🎇明天┃秒播🎇", "type": 3, "api": "csp_WexTiantianys", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
-    {"key": "Wexjiohub", "name": "🎇啾啾┃秒播🎇", "type": 3, "api": "csp_Wexjiohub", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
-    {"key": "WexShijuedy", "name": "🎇看看┃秒播🎇", "type": 3, "api": "csp_WexShijuedy", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
-    {"key": "Wexsaohuo", "name": "🎇火火┃秒播🎇", "type": 3, "api": "csp_Wexsaohuo", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
-    {"key": "csp_Nmys", "name": "🎇伯伯┃秒播🎇", "type": 3, "api": "csp_WexNmys", "searchable": 1, "changeable": 1, "jar":"./jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "Wexxiongdiys", "name": "💥基友┃影视💥", "type": 3, "api": "csp_Wexxiongdiys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "Wexyuyueys","name": "💥雨落┃影视💥", "type": 3, "api": "csp_Wexyuyueys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "Wexkukantv","name": "😁看呗┃影视😁", "type": 3, "api": "csp_Wexkukantv", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "mingriyingshi", "name": "😁明日┃影视😁", "type": 3, "api": "csp_WexMingriys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "WexTiantianys", "name": "🎇明天┃秒播🎇", "type": 3, "api": "csp_WexTiantianys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "Wexjiohub", "name": "🎇啾啾┃秒播🎇", "type": 3, "api": "csp_Wexjiohub", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "WexShijuedy", "name": "🎇看看┃秒播🎇", "type": 3, "api": "csp_WexShijuedy", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "Wexsaohuo", "name": "🎇火火┃秒播🎇", "type": 3, "api": "csp_Wexsaohuo", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
+    {"key": "csp_Nmys", "name": "🎇伯伯┃秒播🎇", "type": 3, "api": "csp_WexNmys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
 
 
 
-    {"key": "天天", "name": "⛅️天天┃直连", "type": 3, "api": "csp_TianTian", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 10, "jar": "./jar/okjpg.txt;md5;93949b9012fb4c471b75016e1570fefb"},
-    {"key": "JOJO", "name": "🍭JOJO┃直连", "type": 3, "api": "csp_Jiohub", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 10, "jar": "./jar/okjpg.txt;md5;93949b9012fb4c471b75016e1570fefb"},
-    {"key": "️爱看Bot", "name": "⛅️爱看Bot┃直连", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 10, "jar": "./jar/okjpg.txt;md5;93949b9012fb4c471b75016e1570fefb"},
-    {"key": "sp360", "name": "🐛360┃解析", "type": 3, "api": "csp_Sp360", "searchable": 1, "filterable": 1, "changeable": 1, "timeout": 25, "jar": "./jar/okjpg.txt;md5;93949b9012fb4c471b75016e1570fefb"},
+    {"key": "天天", "name": "⛅️天天┃直连", "type": 3, "api": "csp_TianTian", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 10, "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;93949b9012fb4c471b75016e1570fefb"},
+    {"key": "JOJO", "name": "🍭JOJO┃直连", "type": 3, "api": "csp_Jiohub", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 10, "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;93949b9012fb4c471b75016e1570fefb"},
+    {"key": "️爱看Bot", "name": "⛅️爱看Bot┃直连", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 10, "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;93949b9012fb4c471b75016e1570fefb"},
+    {"key": "sp360", "name": "🐛360┃解析", "type": 3, "api": "csp_Sp360", "searchable": 1, "filterable": 1, "changeable": 1, "timeout": 25, "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;93949b9012fb4c471b75016e1570fefb"},
 
 
 
-    {"key": "drpy_js_sgys", "name": "搜狗┃视频", "type": 3, "api": "./js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/搜狗视频.js"},
-    {"key": "drpy_js_360影视", "name": "360影视┃视频", "type": 3, "api": "./js/drpy2.min.js", "ext": "./js/360影视.js"},
-    {"key": "drpy_js_我的哔哩", "name": "B站┃合集", "type": 3, "api": "./js/drpy2.min.js", "ext": "./js/我的哔哩.js"},
+    {"key": "drpy_js_sgys", "name": "搜狗┃视频", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/sierpin/lives/raw/main/js/搜狗视频.js"},
+    {"key": "drpy_js_360影视", "name": "360影视┃视频", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "ext": "https://gitee.com/sierpin/lives/raw/main/js/360影视.js"},
+    {"key": "drpy_js_我的哔哩", "name": "B站┃合集", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "ext": "https://gitee.com/sierpin/lives/raw/main/js/我的哔哩.js"},
 
 
-    {"key": "meowtv_mays", "name": "米爱┃影视", "type": 3, "api": "./js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./js/米爱影视.js"},
-    {"key": "meowtv_348D", "name": "\uD83D\uDC40蓝光┃影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./json/lgyy.json", "jar": "./jar/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"},
-    {"key": "meowtv_akys", "name": "爱看┃影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "[排序:lz线路,kuaik]", "jar": "./jar/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"},
-    {"key": "meowtv_ynys", "name": "鸭奈┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./json/鸭奈影视.json", "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"},
-    {"key": "meowtv_Nfys", "name": "奈飞┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./json/奈飞影视.json", "jar": "./jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"},
-    {"key": "drpy_js_蓝光影院", "name": "蓝光影院┃影视", "type": 3, "api": "./js/drpy2.min.js", "ext": "./js/lgyy.js"},
-    {"key": "贱贱", "name": "🐭贱贱┃P2P", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "1", "api": "./js/drpy2.min.js", "ext": "./js/jp.js"},
+    {"key": "meowtv_mays", "name": "米爱┃影视", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/sierpin/lives/raw/main/js/米爱影视.js"},
+    {"key": "meowtv_348D", "name": "\uD83D\uDC40蓝光┃影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/sierpin/lives/raw/main/json/lgyy.json", "jar": "https://gitee.com/sierpin/lives/raw/main/jar/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"},
+    {"key": "meowtv_akys", "name": "爱看┃影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "[排序:lz线路,kuaik]", "jar": "https://gitee.com/sierpin/lives/raw/main/jar/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"},
+    {"key": "meowtv_ynys", "name": "鸭奈┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/sierpin/lives/raw/main/json/鸭奈影视.json", "jar": "https://gitee.com/sierpin/lives/raw/main/jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"},
+    {"key": "meowtv_Nfys", "name": "奈飞┃影视", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/sierpin/lives/raw/main/json/奈飞影视.json", "jar": "https://gitee.com/sierpin/lives/raw/main/jar/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"},
+    {"key": "drpy_js_蓝光影院", "name": "蓝光影院┃影视", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "ext": "https://gitee.com/sierpin/lives/raw/main/js/lgyy.js"},
+    {"key": "贱贱", "name": "🐭贱贱┃P2P", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "1", "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "ext": "https://gitee.com/sierpin/lives/raw/main/js/jp.js"},
 
 
     {"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
@@ -80,7 +80,7 @@
     {"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}
   ],
-  
+
   "doh": [
     {
       "name": "Google",

@@ -43,6 +43,7 @@ https://tv.cry33.com/ys4k.php?id=8k
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+https://itv.lat/hls?channel=hnwsH265&token=85c53bb8caf87075db8efcb56cab13d6
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
@@ -208,3 +209,32 @@ http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
 http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.com/tv/湖南教育.png" group-title="湖南地方",湖南教育
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+
+
+
+#EXTINF:-1 tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川地方",四川经济
+https://itv.lat/hls?channel=SCTV-2-H265&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="SCTV4" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川地方",四川新闻
+https://itv.lat/hls?channel=SCTV-4H265&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川地方",四川影视文艺
+https://itv.lat/hls?channel=SCTV-5-scysH265&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="SCTV7" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川地方",四川妇女儿童
+https://itv.lat/hls?channel=SCTV-7-&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="SCTV8" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川地方",四川科教
+https://itv.lat/hls?channel=SCTV-ggSCTV-8&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="SCTV9" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川地方",四川乡村
+https://itv.lat/hls?channel=SCTV-kjSCTV-9-&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川地方",四川文化旅游
+https://itv.lat/hls?channel=SCTV-3-H265&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/四川峨眉电影.png" group-title="四川地方",四川峨眉电影
+https://itv.lat/hls?channel=emdygqH265&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="成都新闻综合" tvg-logo="https://live.fanmingming.com/tv/成都新闻综合.png" group-title="四川地方",成都新闻综合
+https://itv.lat/hls?channel=CDTV-1&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="成都经济资讯" tvg-logo="https://live.fanmingming.com/tv/成都经济资讯.png" group-title="四川地方",成都经济资讯
+https://itv.lat/hls?channel=CDTV-2&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="成都都市生活" tvg-logo="https://live.fanmingming.com/tv/成都都市生活.png" group-title="四川地方",成都都市生活
+https://itv.lat/hls?channel=CDTV-3&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="成都影视文艺" tvg-logo="https://live.fanmingming.com/tv/成都影视文艺.png" group-title="四川地方",成都影视文艺
+https://itv.lat/hls?channel=CDTV-4&token=85c53bb8caf87075db8efcb56cab13d6
+#EXTINF:-1 tvg-name="成都公共" tvg-logo="https://live.fanmingming.com/tv/成都公共.png" group-title="四川地方",成都公共
+https://itv.lat/hls?channel=CDTV-5&token=85c53bb8caf87075db8efcb56cab13d6

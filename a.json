@@ -39,6 +39,18 @@
     {"key": "JOJO", "name": "🍭JOJO┃直连", "type": 3, "api": "csp_Jiohub", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 10, "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;0734d3a6df372273f150d9d159a66872"},
     {"key": "️爱看Bot", "name": "⛅️爱看Bot┃直连", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 10, "jar": "https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;0734d3a6df372273f150d9d159a66872"},
 
+
+
+    {"key": "新视觉", "name": "🐦┃视觉┃影视", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://www.3ayy.com", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
+    {"key":"csp_SuBaiBai","name":"🏳️┃素白┃影视","type":3,"api":"csp_SuBaiBai","jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
+    {"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
+    {"key":"csp_Zx1080","name":" 👰┃最新┃影视","type":3,"api":"csp_Zx1080","playerType":2,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
+    {"key":"csp_Ikan","name":"💕┃爱看┃影视","type":3,"api":"csp_Ikan","playerType":2,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
+    {"key":"csp_Taozi","name":"🍑┃桃子┃影视","type":3,"api":"csp_Taozi","jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
+
+
+
+
     {"key": "Wexxiongdiys", "name": "💥基友┃影视💥", "type": 3, "api": "csp_Wexxiongdiys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
     {"key": "Wexyuyueys","name": "💥雨落┃影视💥", "type": 3, "api": "csp_Wexyuyueys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
     {"key": "Wexkukantv","name": "😁看呗┃影视😁", "type": 3, "api": "csp_Wexkukantv", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},

@@ -305,3 +305,53 @@ http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 
 
+
+
+#EXTINF:-1 tvg-id="电影_周星驰" tvg-name="电影_周星驰"  group-title="电影轮播",电影_周星驰
+http://cfss.cc/cdn/hy/11342412.flv
+#EXTINF:-1 tvg-id="电影_林正英" tvg-name="电影_林正英"  group-title="电影轮播",电影_林正英
+http://cfss.cc/cdn/hy/11342421.flv
+#EXTINF:-1 tvg-id="电影_周润发" tvg-name="电影_周润发"  group-title="电影轮播",电影_周润发
+http://cfss.cc/cdn/hy/11342387.flv
+#EXTINF:-1 tvg-id="电影_成龙" tvg-name="电影_成龙"  group-title="电影轮播",电影_成龙
+http://cfss.cc/cdn/hy/11342386.flv
+#EXTINF:-1 tvg-id="电影_沈腾" tvg-name="电影_沈腾"  group-title="电影轮播",电影_沈腾
+http://cfss.cc/cdn/hy/11601968.flv
+#EXTINF:-1 tvg-id="电影_黄渤" tvg-name="电影_黄渤"  group-title="电影轮播",电影_黄渤
+http://cfss.cc/cdn/hy/11352876.flv
+#EXTINF:-1 tvg-id="电影_漫威" tvg-name="电影_漫威"  group-title="电影轮播",电影_漫威
+http://cfss.cc/cdn/hy/11602034.flv
+#EXTINF:-1 tvg-id="电影_宇宙" tvg-name="电影_宇宙"  group-title="电影轮播",电影_宇宙
+http://cfss.cc/cdn/hy/11342428.flv
+#EXTINF:-1 tvg-id="电影_怪兽" tvg-name="电影_怪兽"  group-title="电影轮播",电影_怪兽
+http://cfss.cc/cdn/hy/21059577.flv
+#EXTINF:-1 tvg-id="电影_贺岁" tvg-name="电影_贺岁"  group-title="电影轮播",电影_贺岁
+http://cfss.cc/cdn/hy/11601971.flv
+#EXTINF:-1 tvg-id="电影_玄幻" tvg-name="电影_玄幻"  group-title="电影轮播",电影_玄幻
+http://cfss.cc/cdn/hy/11342414.flv
+#EXTINF:-1 tvg-id="电影_谍战" tvg-name="电影_谍战"  group-title="电影轮播",电影_谍战
+http://cfss.cc/cdn/hy/21059585.flv
+#EXTINF:-1 tvg-id="电影_战争" tvg-name="电影_战争"  group-title="电影轮播",电影_战争
+http://cfss.cc/cdn/hy/21059592.flv
+#EXTINF:-1 tvg-id="电影_喜剧" tvg-name="电影_喜剧"  group-title="电影轮播",电影_喜剧
+http://cfss.cc/cdn/hy/11352877.flv
+#EXTINF:-1 tvg-id="电影_港片" tvg-name="电影_港片"  group-title="电影轮播",电影_港片
+http://cfss.cc/cdn/hy/11602043.flv
+#EXTINF:-1 tvg-id="电影_国产" tvg-name="电影_国产"  group-title="电影轮播",电影_国产
+http://cfss.cc/cdn/hy/11352973.flv
+#EXTINF:-1 tvg-id="电影_李连杰" tvg-name="电影_李连杰"  group-title="电影轮播",电影_李连杰
+http://cfss.cc/cdn/hy/11342390.flv
+#EXTINF:-1 tvg-id="电影_洪金宝" tvg-name="电影_洪金宝"  group-title="电影轮播",电影_洪金宝
+http://cfss.cc/cdn/hy/11279251.flv
+#EXTINF:-1 tvg-id="电影_刘德华" tvg-name="电影_刘德华"  group-title="电影轮播",电影_刘德华
+http://cfss.cc/cdn/hy/11342424.flv
+#EXTINF:-1 tvg-id="电影_高分动作" tvg-name="电影_高分动作"  group-title="电影轮播",电影_高分动作
+http://cfss.cc/cdn/hy/11352884.flv
+#EXTINF:-1 tvg-id="电影_动作电影" tvg-name="电影_动作电影"  group-title="电影轮播",电影_动作电影
+http://cfss.cc/cdn/hy/11602077.flv
+#EXTINF:-1 tvg-id="电影_搞笑喜剧" tvg-name="电影_搞笑喜剧"  group-title="电影轮播",电影_搞笑喜剧
+http://cfss.cc/cdn/hy/11342423.flv
+#EXTINF:-1 tvg-id="电影_喜剧专场" tvg-name="电影_喜剧专场"  group-title="电影轮播",电影_喜剧专场
+http://cfss.cc/cdn/hy/11602044.flv
+
+

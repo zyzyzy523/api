@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://gitee.com/sierpin/lives/raw/main/lives.json",
+      "name": "主路线"
+    },
+    {
       "url": "http://ok321.top/tv",
       "name": "弹幕"
     }

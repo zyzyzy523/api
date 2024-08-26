@@ -5,6 +5,7 @@ muban.短视2.二级.tab_text = 'body--i--span&&Text';
 var rule={
     title:'NY影院',
     模板:'短视2',
+    timeout: 15000,
     host:'https://www.nycvod.com',
     homeUrl:'/index.php/label/rb.html',
     // url: '/index.php/api/vod#type=fyfilter&page=fypage',

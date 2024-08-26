@@ -19,6 +19,7 @@ var rule = {
     headers:{
         'User-Agent':'UC_UA',
     },
+    timeout: 15000,
     // class_parse:'.navlist&&li;a&&Text;a&&href;.*/(\\w+)',
     class_name:'影视筛选&电影&电视剧&热门电影&高分电影&动漫电影&香港经典电影&国产剧&欧美剧&韩剧&动漫剧&漫威宇宙电影系列&速度与激情电影系列&007系列(25部正传+2部外传)',//静态分类名称拼接
     class_url:'movie_bt&new-movie&tv-drama&hot-month&high-movie&cartoon-movie&hongkong-movie&domestic-drama&american-drama&korean-drama&anime-drama&marvel-movies&fastfurious&zero-zero-seven',//静态分类标识拼接

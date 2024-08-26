@@ -5,6 +5,7 @@ muban.首图2.二级.tabs = 'body&&h3'
 var rule = {
     title: '567电影院',
     模板: '首图2',
+    timeout: 15000,
     // host:'https://www.345kp.com', // 原345看片
     host: 'https://www.567dyy.com',
     // url:'/show/fyclass--------fypage---.html',

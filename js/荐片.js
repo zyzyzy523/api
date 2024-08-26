@@ -36,7 +36,7 @@ var rule = {
 		'User-Agent': 'jianpian-android/350',
 		'JPAUTH': 'y261ow7kF2dtzlxh1GS9EB8nbTxNmaK/QQIAjctlKiEv'
 	},
-	timeout: 5000,
+	timeout: 15000,
 	limit: 8,
 	play_parse: true,
 	play_json: [{

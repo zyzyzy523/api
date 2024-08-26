@@ -66,6 +66,14 @@
     {"key": "drpy_js_360影视", "name": "360影视┃视频", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "ext": "https://gitee.com/sierpin/lives/raw/main/js/360影视.js"},
     {"key": "drpy_js_我的哔哩", "name": "B站┃合集", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "ext": "https://gitee.com/sierpin/lives/raw/main/js/我的哔哩.js"},
 
+    {"key": "drpy_js_荐片", "name": "影视┃荐片[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/荐片.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
+    {"key": "drpy_js_素白白", "name": "影视┃素白白[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/素白白.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
+    {"key": "drpy_js_567电影院", "name": "影视┃567电影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/567电影院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
+    {"key": "drpy_js_4k剧院", "name": "影视┃4k剧院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/4k剧院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
+    {"key": "drpy_js_影视工场", "name": "影视┃影视工场[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/影视工场.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
+    {"key": "drpy_js_8号影院", "name": "影视┃8号影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/8号影院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
+    {"key": "drpy_js_NY影院", "name": "影视┃NY影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/NY影院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
+
 
 
     {"key": "贱贱", "name": "🐭贱贱┃P2P", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "1", "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "ext": "https://gitee.com/sierpin/lives/raw/main/js/jp.js"},

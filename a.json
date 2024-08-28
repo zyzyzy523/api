@@ -42,7 +42,7 @@
     {"key":"csp_Dyxs","name":"🎬电影先生","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_FengGo","name":"🐶疯狗","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Jiaozi","name":"🥣饺子","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
-
+    {"key":"csp_Jianpian","name":"🧲荐片","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
 
     {"key": "新视觉", "name": "🐦┃视觉┃影视", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://www.3ayy.com", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
     {"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},

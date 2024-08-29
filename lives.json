@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",
+  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;7E63CA51D571E1D643A966CE42122A52",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -14,35 +14,36 @@
   ],
   "sites": [
 
-    {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
     {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"csp_TianTian","name":"🦉天天", "type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Jpys","name":"💮金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"csp_Dadag","name":"🐢达达龟","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Ikan","name":"💖爱看","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Dyxs","name":"🎬电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_FengGo","name":"🐶疯狗","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
+    {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"萌米","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+    {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+    {"key":"可可","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
+    {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
+
+
     {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
     {"key":"追剧","name":"🍓追剧┃多线","type":3,"api":"csp_AppTT","playerType":2,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
-    {"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 
-
-    {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+    {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕", "type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-    {"key":"Auete","name":"🏝奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},
-    {"key":"zxzj","name":"🍊在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
-    {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 
-    {"key":"csp_TianTian","name":"🦉天天", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Jpys","name":"💮金牌","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_Dadag","name":"🐢达达龟","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Qiyou","name":"🦌奇优","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Ikan","name":"💖爱看","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_SuBaiBai","name":"⛅️素白白","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Tvyb","name":"☁️TVB云播","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Dyxs","name":"🎬电影先生","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_FengGo","name":"🐶疯狗","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Jiaozi","name":"🥣饺子","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Jianpian","name":"🧲荐片","jar":"https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4A2DF3CDAD0ECEF3EA4F3FD28E4CF845","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://112.124.0.131:20000"},
 
     {"key": "新视觉", "name": "🐦┃视觉┃影视", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://www.3ayy.com", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
     {"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","jar":"https://gitee.com/sierpin/lives/raw/main/jar/PandaQ240724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"},
@@ -65,8 +66,6 @@
 
 
     {"key": "drpy_js_sgys", "name": "搜狗┃视频", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/sierpin/lives/raw/main/js/搜狗视频.js"},
-
-    {"key": "drpy_js_荐片", "name": "影视┃荐片[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/荐片.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
     {"key": "drpy_js_567电影院", "name": "影视┃567电影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/567电影院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
     {"key": "drpy_js_4k剧院", "name": "影视┃4k剧院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/4k剧院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
     {"key": "drpy_js_影视工场", "name": "影视┃影视工场[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/影视工场.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
@@ -75,17 +74,18 @@
 
 
 
-    {"key": "贱贱", "name": "🐭贱贱┃P2P", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "1", "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "ext": "https://gitee.com/sierpin/lives/raw/main/js/jp.js"},
-    {"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1},
-    {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
+    {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
+    {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+    {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
+    {"key":"csp_Yj1211","name":"📽️JustLive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"夸搜","name":"🐟夸搜┃狸夸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"PanSou","name":"🦊盘搜┃阿狸","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-    {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"米搜","name":"🦋小米┃盘搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}}
   ],

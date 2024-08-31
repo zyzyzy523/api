@@ -18,8 +18,6 @@
     {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
     {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-
-    {"key":"配置中心","name":"👨‍🍳‍配置┃中心", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
     {"key":"csp_TianTian","name":"🦉天天", "type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Jpys","name":"💮金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Dadag","name":"🐢达达龟","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
@@ -113,7 +111,8 @@
     {"key":"米搜","name":"🌖米搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt", "site": "https://www.misou.fun"},"timeout":15},
     {"key":"夸搜","name":"🚢夸搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","api":"csp_Qkso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
     {"key":"云盘4K","name":"🤖云盘4K┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
-    {"key":"影搜","name":"🌸影搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15}
+    {"key":"影搜","name":"🌸影搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
+    {"key":"配置中心","name":"👨‍🍳‍配置┃中心", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}}
   ],
 
   "parses": [

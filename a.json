@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;4757AD203B395E55AA0F2A600077869A",
+  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -113,6 +113,7 @@
     {"key":"云盘4K","name":"🤖云盘4K┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
     {"key":"影搜","name":"🌸影搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}}
+
   ],
 
   "parses": [

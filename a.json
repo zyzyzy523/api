@@ -64,7 +64,6 @@
 
 
     {"key":"河马","name":"🦓河马┃在线","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","type": 3,"api":"csp_Oka","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10,"ext": "{\"cateUrl\":\"https://www.hemahd.com/tags/{cateId}--------{page}---.html\", \"cate\":\"电影$1#电视剧$2#动漫$3#综艺$4\", \"search\":\"/sou/{search}-------------.html\"}"},
-    {"key":"桃子","name":"🍑桃子┃在线","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92","type": 3,"api":"csp_Oka","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10,"ext": "{\"cateUrl\":\"https://www.taozi007.com/show/{cateId}--------{page}---.html\", \"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$5\",\"playFrom\":\".module-tab-items .module-tab-item span\",\"playUrl\":\".module-list .module-play-list\", \"search\":\"/search/{search}-------------.html\", \"webview\":1}"},
 
     {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
     {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},

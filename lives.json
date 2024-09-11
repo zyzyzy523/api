@@ -40,8 +40,6 @@
     {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
     {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/sierpin/lives/raw/main/json/jianpian.json"},
     {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-    {"key":"酷看","name":"😎酷看","type": 3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067","api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"JOJO","name":"🍭JOJO","type": 3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;96a7414f28257af29ca81e0c29f10067","api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
 
     {"key": "Wexxiongdiys", "name": "💥基友┃影视💥", "type": 3, "api": "csp_Wexxiongdiys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},
     {"key": "Wexyuyueys","name": "💥雨落┃影视💥", "type": 3, "api": "csp_Wexyuyueys", "searchable": 1, "changeable": 1, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/wangxiaoer.txt;md5;bddf772185748da4ce3f57fa889e3c96"},

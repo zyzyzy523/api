@@ -14,7 +14,7 @@
   ],
   "logo":"https://gitee.com/sierpin/lives/raw/main/logo.gif",
   "sites": [
-    {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"豆瓣","name":"🔍豆瓣","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"原创","name":"☀原创","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"天天","name":"⛅️天天" ,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
@@ -119,12 +119,13 @@
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心",  "indexs": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.433
+        "ratio": 1.597
       },"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Config","searchable":0,"changeable":0},
 
     {"key":"快手直播","name":"😎快手┃直播","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"timeout":10},
     {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720580963200/huyazhibo.txt","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
     {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720580992976/douyuzhibo.txt","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10}
+
 
   ],
 

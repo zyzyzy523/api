@@ -72,8 +72,9 @@
     {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{
-      "commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json",
-      "share":"https://gitee.com/sierpin/lives/raw/main/json/网盘集合.json"}},
+
+      "share":"https://gitee.com/sierpin/lives/raw/main/json/网盘集合.json"}
+    },
     {"key":"玩偶","name":"👽玩偶┃4K", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt",

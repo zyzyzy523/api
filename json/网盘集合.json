@@ -47,20 +47,9 @@
   },
   {
     "share_index": "夸克",
-    "share_name": "夸克新电影",
-    "share_id": "0a6d22042d07"
-  },
-  {
-    "share_index": "夸克",
-    "share_name": "晚风夸克合集",
-    "share_id": "3efb8fb706bf"
-  },
-  {
-    "share_index": "夸克",
     "share_name": "MTV精选1万首夸克",
     "share_id": "3e458103b556"
   },
-
   {
     "share_index": "阿里",
     "share_name": "NBA阿里",
@@ -71,12 +60,6 @@
     "share_name": "夸克MV",
     "share_id": "e10ef5a111e5"
   },
-  {
-    "share_index": "夸克",
-    "share_name": "GRT最新电影夸克",
-    "share_id": "2b2216c8d8da"
-  },
-
   {
     "share_index": "夸克",
     "share_name": "短剧夸克",
@@ -104,28 +87,9 @@
   },
   {
     "share_index": "阿里",
-    "share_name": "阿里1T",
-    "share_id": "mxAfB6eRgY4"
+    "share_name": "老司机",
+    "share_id": "5bsnAp5fbCW"
   },
-  {
-    "share_index": "阿里",
-    "share_name": "GRT总链接",
-    "share_id": "MtGFAWrTWx1"
-  },
-  {
-    "share_index": "阿里",
-    "share_name": "YYDS更新",
-    "share_id": "73MzTG111kL"
-  },
-  {
-    "share_index": "阿里",
-    "share_name": "全球分享",
-    "share_id": "zS888Dm8arT"
-  },{
-  "share_index": "阿里",
-  "share_name": "老司机",
-  "share_id": "5bsnAp5fbCW"
-},
   {
     "share_index": "阿里",
     "share_name": "平凡中的",
@@ -148,10 +112,5 @@
   {
     "share_name": "YYDSVIP",
     "share_id": "dieULBdYP3D"
-  },
-  {
-    "share_name": "YYDSHD",
-    "share_id": "M6rD2CJXpRb"
   }
-
 ]

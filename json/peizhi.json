@@ -1,0 +1,9 @@
+{
+  "aliToken": "file://TV/ali_token.txt",
+  "quarkCookie": "file://TV/quark_cookie.txt",
+  "ucCookie": "file://TV/uc_cookie.txt",
+  "115Cookie": "",
+  "pwdRb115": "",
+  "goServerUrl": "http://127.0.0.1:9966",
+  "ydAuth": ""
+}

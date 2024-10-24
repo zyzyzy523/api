@@ -12,7 +12,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "logo":"https://gitee.com/sierpin/lives/raw/main/logo.gif",
+  "logo":"https://gitee.com/sierpin/lives/raw/main/tupian.gif",
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -71,7 +71,11 @@
     {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 
-
+    {"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":{
+      "token": "file://TV/ali_token.txt",
+      "cookie": "file://TV/quark_cookie.txt",
+      "uc_cookie": "file://TV/uc_cookie.txt"
+    },"share":"https://gitee.com/sierpin/lives/raw/main/json/网盘集合.json"}},
     {"key":"玩偶","name":"👽玩偶┃4K", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt",

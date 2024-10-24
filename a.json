@@ -12,7 +12,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "logo":"https://uatapp.byteplan.com/data/static/view?id=1849371839886946305&tenantId=1481900712586743809",
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},

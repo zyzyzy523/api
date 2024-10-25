@@ -35,7 +35,7 @@
     {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"文才","name":"🌺文才","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"️爱看Bot","name":"⛅️爱看Bot","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77", "type": 3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/sierpin/lives/raw/main/js/南瓜.js"},
+    {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"https://d.kstore.space/download/11396/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/sierpin/lives/raw/main/js/南瓜.js"},
     {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
     {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.pro/"},
@@ -51,6 +51,7 @@
     {"key":"看看影视","name":"看看｜影视","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3","api":"csp_WebIV","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"视频库","name":"视频库｜影视","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3","api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
     {"key":"韩小圈","name":"韩小圈｜APP","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3","api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
+
 
 
 
@@ -112,8 +113,8 @@
       },"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Config","searchable":0,"changeable":0},
 
     {"key":"快手直播","name":"😎快手┃直播","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"timeout":10},
-    {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720580963200/huyazhibo.txt","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
-    {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720580992976/douyuzhibo.txt","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10}
+    {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://d.kstore.space/download/11396/js/drpy2.min.js?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720580963200/huyazhibo.txt","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
+    {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://d.kstore.space/download/11396/js/drpy2.min.js?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720580992976/douyuzhibo.txt","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10}
 
 
   ],
@@ -263,124 +264,7 @@
   ],
 
 
-  "rules": [
-    {
-      "name": "暴风",
-      "hosts": [
-        "bfzy",
-        "bfbfvip",
-        "bfengbf"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
-      ]
-    },
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        ".cdnlz"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "17.19"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy",
-        "super.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
-        "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
-        "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
-        "17.99",
-        "14.45"
-      ]
-    },
-    {
-      "name": "索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
-      ]
-    },
-    {
-      "name": "快看",
-      "hosts": [
-        "kuaikan"
-      ],
-      "regex": [
-        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "磁力广告",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "更多",
-        "请访问",
-        "example",
-        "社 區",
-        "x u u",
-        "直 播",
-        "更 新",
-        "社 区",
-        "有趣",
-        "有 趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
-        "UUE29"
-      ]
-    },
-    {
-      "name": "火山嗅探",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "抖音嗅探",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "农民嗅探",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    }
-  ],
+
   "doh": [
     {
       "name": "Google",

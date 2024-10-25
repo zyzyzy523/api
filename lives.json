@@ -52,22 +52,7 @@
     {"key":"视频库","name":"视频库｜影视","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3","api":"csp_WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc"},
     {"key":"韩小圈","name":"韩小圈｜APP","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3","api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
 
-
-    {"key": "drpy_js_567电影院", "name": "影视┃567电影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/567电影院.js", "type": 3, "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt"},
-    {"key": "drpy_js_4k剧院", "name": "影视┃4k剧院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/4k剧院.js", "type": 3, "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt"},
-    {"key": "drpy_js_8号影院", "name": "影视┃8号影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/8号影院.js", "type": 3, "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt"},
-    {"key": "drpy_js_NY影院", "name": "影视┃NY影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/NY影院.js", "type": 3, "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt"},
-    {"key": "完美弹幕", "name": "完美｜JS", "type": 3, "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt", "ext": "https://gitee.com/sierpin/lives/raw/main/js/完美弹幕.js"},
-    {"key": "星河弹幕","name": "星河｜JS", "type": 3, "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt", "ext": "https://gitee.com/sierpin/lives/raw/main/js/星河弹幕.js"},
-    { "key": "小熊弹幕", "name": "小熊｜JS", "type": 3, "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt", "ext": "https://gitee.com/sierpin/lives/raw/main/js/小熊弹幕.js"},
-    {"key":"魔力高清","name":"魔力｜JS","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","ext":"https://gitee.com/sierpin/lives/raw/main/js/魔力高清.js"},
-    {"key":"追剧迷","name":"追剧迷｜影视","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","ext":"https://gitee.com/sierpin/lives/raw/main/js/追剧迷.js"},
-    {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","ext":"https://gitee.com/sierpin/lives/raw/main/js/爱奇艺.js"},
-    {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","ext":"https://gitee.com/sierpin/lives/raw/main/js/腾讯视频.js"},
-    {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","ext":"https://gitee.com/sierpin/lives/raw/main/js/优酷视频.js"},
-    {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","ext":"https://gitee.com/sierpin/lives/raw/main/js/芒果视频.js"},
-    {"key":"搜狗视频","name":"搜狗｜视频","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","ext":"https://gitee.com/sierpin/lives/raw/main/js/搜狗视频.js"},
-    {"key":"哔哩视频","name":"哔哩｜视频","type":3,"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt","ext":"https://gitee.com/sierpin/lives/raw/main/js/哔哩视频.js"},
+    {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://d.kstore.space/download/11396/js/drpy2.min.js","ext":"https://d.kstore.space/download/11396/js/芒果视频.js"},
 
 
     {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},

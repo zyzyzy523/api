@@ -53,7 +53,6 @@
     {"key":"韩小圈","name":"韩小圈｜APP","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3","api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
 
 
-    {"key": "drpy_js_sgys", "name": "搜狗┃视频", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/sierpin/lives/raw/main/js/搜狗视频.js"},
     {"key": "drpy_js_567电影院", "name": "影视┃567电影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/567电影院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
     {"key": "drpy_js_4k剧院", "name": "影视┃4k剧院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/4k剧院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},
     {"key": "drpy_js_8号影院", "name": "影视┃8号影院[js]","ext": "https://gitee.com/sierpin/lives/raw/main/js/8号影院.js", "type": 3, "api": "https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js"},

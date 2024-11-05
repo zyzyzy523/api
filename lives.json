@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;975457C21B8081448B06A69BADF7610B",
+  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
@@ -13,11 +13,11 @@
     }
   ],
   "sites": [
-    {"key":"豆瓣","name":"🔍豆瓣","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+    {"key":"豆瓣","name":"🔍豆瓣", "type":3,"api":"csp_DouDou","searchable":0,"changeable":1},
     {"key":"苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"原创","name":"☀原创","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"天天","name":"⛅️天天","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"key":"厂长","name":"📔厂长","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Czzy","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"厂长","name":"📔厂长","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_Czzy","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_ReBo","name":"☀️热播","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
@@ -33,8 +33,8 @@
     {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"文才","name":"🌺文才","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"️爱看Bot","name":"⛅️爱看Bot","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77", "type": 3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"key":"文才","name":"🌺文才","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"key":"️爱看Bot","name":"⛅️爱看Bot","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069", "type": 3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"https://d.kstore.space/download/11396/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/sierpin/lives/raw/main/js/南瓜.js"},
     {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
@@ -76,19 +76,19 @@
     {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 
 
-    {"key":"玩偶","name":"👽玩偶┃4K", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {
+    {"key":"玩偶","name":"👽玩偶┃4K", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt",
       "uc_cookie": "file://TV/uc_cookie.txt",
       "wogg": true
     },"timeout":30},
-    {"key":"木偶弹幕","name":"🪵木偶┃在线","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
+    {"key":"木偶弹幕","name":"🪵木偶┃在线","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt",
       "uc_cookie": "file://TV/uc_cookie.txt",
       "site": "http://mogg.小胡.top"
     }, "timeout": 25},
-    {"key":"立播弹幕版","name":"🐰立播┃在线", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1, "ext": {
+    {"key":"立播弹幕版","name":"🐰立播┃在线", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt",
       "uc_cookie": "file://TV/uc_cookie.txt",
@@ -101,34 +101,33 @@
       "site": "http://labipan.com",
       "danmu" : true
     }, "timeout": 25},
-    {"key":"阿里合集","name":"🦋阿里┃合集","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type": 3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"indexs":0,"ext": {
+    {"key":"阿里合集","name":"🦋阿里┃合集","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type": 3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"indexs":0,"ext": {
       "token": "file://TV/ali_token.txt",
       "share": "file://TV/阿里集合.json"
     }, "style":{"type":"list"}, "timeout": 30},
-    {"key":"土豆网盘","name":"🥔土豆┃4K","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
+    {"key":"土豆网盘","name":"🥔土豆┃4K","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt",
       "site": "https://tudou.lvdoui.top"
     }, "timeout": 25},
-    {"key":"csp_AList","name":"🦋AList","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},"ext": "file://TV/alist.json","timeout":15},
-    {"key":"纸条","name":"🗞纸条┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt"},"timeout":15},
-    {"key":"盘Se","name":"🙀盘Se┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt"},"timeout":15},
-    {"key":"易搜","name":"😹易搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"},"timeout":15},
-    {"key":"csp_QuPanSou","name":"🤓趣盘搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
-    {"key":"csp_Qkpanso","name":"🐚夸克盘搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
-    {"key":"米搜","name":"🌖米搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt", "site": "https://www.misou.fun"},"timeout":15},
-    {"key":"夸搜","name":"🚢夸搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","api":"csp_Qkso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
-    {"key":"云盘4K","name":"🤖云盘4K┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
-    {"key":"影搜","name":"🌸影搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
+    {"key":"csp_AList","name":"🦋AList","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},"ext": "file://TV/alist.json","timeout":15},
+    {"key":"纸条","name":"🗞纸条┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt"},"timeout":15},
+    {"key":"盘Se","name":"🙀盘Se┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt"},"timeout":15},
+    {"key":"易搜","name":"😹易搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"},"timeout":15},
+    {"key":"csp_QuPanSou","name":"🤓趣盘搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_QuPanSou","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
+    {"key":"csp_Qkpanso","name":"🐚夸克盘搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
+    {"key":"米搜","name":"🌖米搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt", "site": "https://www.misou.fun"},"timeout":15},
+    {"key":"夸搜","name":"🚢夸搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","api":"csp_Qkso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
+    {"key":"云盘4K","name":"🤖云盘4K┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
+    {"key":"影搜","name":"🌸影搜┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie":"file://TV/quark_cookie.txt"},"timeout":15},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心",  "indexs": 0,
       "style": {
         "type": "rect",
         "ratio": 1.597
-      },"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type":3,"api":"csp_Config","searchable":0,"changeable":0},
+      },"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069","type":3,"api":"csp_Config","searchable":0,"changeable":0},
 
-    {"key":"快手直播","name":"😎快手┃直播","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77","type": 3,"api":"csp_KsLive","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"timeout":10},
-    {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://d.kstore.space/download/11396/js/drpy2.min.js?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720580963200/huyazhibo.txt","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
-    {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://d.kstore.space/download/11396/js/drpy2.min.js?file=drpy2.min.js","ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720580992976/douyuzhibo.txt","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10}
+    {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
+    {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10}
 
 
   ],

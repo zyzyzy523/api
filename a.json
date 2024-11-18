@@ -72,9 +72,8 @@
     {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Djtt","name":"🌈短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"在线短剧","name":"👌🏻在线┃短剧","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;4b6b5f2b8210c4e239007d0e49558fce","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10},
-    {"key":"无忧短剧","name":"🌈无忧┃短剧","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;4b6b5f2b8210c4e239007d0e49558fce","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10},
+    {"key":"星芽短剧","name":"星芽｜短剧","jar": "https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
     {"key":"玩偶","name":"👽玩偶┃4K", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okjpg.txt;md5;4b6b5f2b8210c4e239007d0e49558fce","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt",

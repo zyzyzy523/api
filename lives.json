@@ -14,7 +14,7 @@
   ],
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣", "type":3,"api":"csp_DouDou","searchable":0,"changeable":1},
-    {"key":"苹果","name":"🍎小苹果","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4", "type":3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+    {"key":"苹果","name":"🍎小苹果","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735709841302/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4", "type":3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"原创","name":"☀原创","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"天天","name":"⛅️天天","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
@@ -157,35 +157,7 @@
 
   ],
   "parses": [
-    {
-      "name": "推荐",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
+
     {
       "name": "优选",
       "type": 1,

@@ -35,8 +35,8 @@
     {"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"csp_Fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
-    {"key":"文才","name":"🌺文才","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"key":"️爱看Bot","name":"⛅️爱看Bot","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4", "type": 3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"key":"文才","name":"🌺文才","jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"key":"️爱看Bot","name":"⛅️爱看Bot","jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4", "type": 3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"浪酷弹幕版","name":"👓浪酷","type": 3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4","api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": "aHR0cDovL3YubGt1eXMuY24=",
       "danmu":true
     }, "timeout": 10},
@@ -83,15 +83,10 @@
     {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"玩偶","name":"👽玩偶┃4K","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4", "api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "uc_cookie": "file://TV/uc_cookie.txt"
-    },"timeout":30},
 
     {
-      "key": "玩偶弹幕",
-      "name": "玩偶｜4K弹幕",
+      "key": "玩偶",
+      "name": "👽玩偶┃4K",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -99,75 +94,380 @@
       "filterable": 1,
       "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "wogg": true,
+        "danmu": false
+      }
+    },
+
+    {
+      "key": "夸克闪电弹幕",
+      "name": "闪电｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://1.95.79.193",
         "danmu": true
       }
     },
-    {"key":"木偶弹幕","name":"🪵木偶┃在线","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_MuouGuard","quickSearch":1, "changeable":1, "filterable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "uc_cookie": "file://TV/uc_cookie.txt",
-      "site": "http://mogg.小胡.top"
-    }, "timeout": 25},
-    {"key":"立播弹幕版","name":"🐰立播┃在线","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4", "type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "uc_cookie": "file://TV/uc_cookie.txt",
-      "site" : "https://libvio.link"
-    }, "timeout": 30},
+    {
+      "key": "夸克欧歌弹幕",
+      "name": "欧哥｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://woog.nxog.eu.org",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克小米弹幕",
+      "name": "小米｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://ucmi.fun",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克多多弹幕",
+      "name": "多多｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://tv.yydsys.top",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克蜡笔弹幕",
+      "name": "蜡笔｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://feimaoai.site",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克至臻弹幕",
+      "name": "至臻｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://xiaomiai.site",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克土豆弹幕",
+      "name": "土豆｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://dcyun.cc",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克木偶弹幕",
+      "name": "木偶｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://www.muoupan.top",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克六趣弹幕",
+      "name": "六趣｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://wp.0v.fit",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克奥秘弹幕",
+      "name": "奥秘｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://vip.omii.top",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克白嫖弹幕",
+      "name": "白嫖｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://smdyo.top",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克虎斑弹幕",
+      "name": "虎斑｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://wp.huban.xyz",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克下饭弹幕",
+      "name": "下饭｜4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://txfyyds.top",
+        "danmu": true
+      }
+    },
 
-    {"key":"蜡笔弹幕","name":"👠蜡笔┃在线", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type":3,"api":"csp_LabiGuard","quickSearch":1, "changeable":1, "filterable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "site": "http://labipan.com",
-      "danmu" : true
-    }, "timeout": 25},
-    {"key":"小米","name":"🍄小米┃优浠","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_XiaoMiGuard","quickSearch":1, "changeable":1, "filterable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "uc_cookie": "file://TV/uc_cookie.txt"
-    }, "timeout": 25},
-    {"key":"闪电","name":"🌈闪电┃优浠","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_ShanDianGuard","quickSearch":1, "changeable":1, "filterable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "uc_cookie": "file://TV/uc_cookie.txt"
-    }, "timeout": 25},
-    {"key":"至臻","name":"💌至臻┃在线","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_ZhiZhenGuard","quickSearch":1, "changeable":1, "filterable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "uc_cookie": "file://TV/uc_cookie.txt"
-    }, "timeout": 25},
-
-    {"key":"我的阿里","name":"🐱我的┃阿里",  "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type": 3,"api":"csp_MyAliGuard","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext": {
-      "token": "file://TV/ali_token.txt"
-    }, "style":{"type":"list"}, "timeout": 30},
-    {"key":"我的夸克","name":"🗽我的┃夸克", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type": 3,"api":"csp_MyQuarkGuard","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext": {
-      "cookie": "file://TV/quark_cookie.txt"
-    }, "style":{"type":"list"}, "timeout": 30},
-    {"key":"我的UC","name":"😼我的┃UC", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type": 3,"api":"csp_MyUcGuard","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext": {
-      "uc_cookie": "file://TV/uc_cookie.txt"
-    }, "style":{"type":"list"}, "timeout": 30},
-    {"key":"阿里合集","name":"🦋阿里┃合集", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type": 3,"api":"csp_AliShareGuard","searchable":1,"changeable":0,"filterable":0,"indexs":0,"ext": {
-      "token": "file://TV/ali_token.txt",
-      "share": "file://TV/阿里集合.json"
-    }, "style":{"type":"list"}, "timeout": 30},
-    {"key":"csp_AListGuard","name":"🦋AList", "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type":3,"api":"csp_AListGuard","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},"ext": "file://TV/alist.json","timeout":15},
-    {"key":"盘Se","name":"🙀盘Se┃搜索","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_PanSearchGuard","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt"},"timeout":15},
-    {"key":"易搜","name":"😹易搜┃搜索","type":3, "jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_YiSoGuard","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt"},"timeout":15},
-    {"key":"csp_QuPanSouGuard","name":"🤓趣盘┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type":3,"api":"csp_QuPanSouGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
-    {"key":"csp_QkdjGuard","name":"🐚夸克短剧┃搜索","jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","type":3,"api":"csp_QkdjGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt", "danmu": true},"timeout":15},
-    {"key":"米搜","name":"🌖米搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_MiPanSoGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "uc_cookie": "file://TV/uc_cookie.txt", "danmu": true},"timeout":15},
-    {"key":"盘搜","name":"🙀盘搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_PanSoGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt", "cookie": "file://TV/quark_cookie.txt", "uc_cookie": "file://TV/uc_cookie.txt", "danmu": true},"timeout":15},
-    {"key":"夸搜","name":"🚢夸搜┃搜索","type":3,"jar":"https://gitee.com/sierpin/lives/raw/main/jar/okpng.txt;md5;7bce1c783d0e66604e992c7af3d953f4","api":"csp_QksoGuard","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"file://TV/quark_cookie.txt"},"timeout":15},
-
+    {
+      "key": "夸克影搜弹幕",
+      "name": "影搜｜弹幕",
+      "type": 3,
+      "api": "csp_Yingso",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "搜索弹幕",
+      "name": "搜索｜弹幕",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "易搜弹幕",
+      "name": "易搜｜弹幕",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true,
+        "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
+      }
+    },
+    {
+      "key": "云盘弹幕",
+      "name": "云盘｜弹幕",
+      "type": 3,
+      "api": "csp_Yunpan4k",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "米搜弹幕",
+      "name": "米搜｜弹幕",
+      "type": 3,
+      "api": "csp_Qkpanso",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://www.misou.fun",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸搜弹幕",
+      "name": "夸搜｜弹幕",
+      "type": 3,
+      "api": "csp_Qkso",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "小纸条弹幕",
+      "name": "小纸条｜弹幕",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "夸克趣盘搜弹幕",
+      "name": "趣盘搜｜弹幕",
+      "type": 3,
+      "api": "csp_QuPanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "阿里合集",
+      "name": "阿里｜合集",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "share": "https://gitee.com/PizazzXS/four-d/raw/master/js/alishare.txt"
+      },
+      "style": {
+        "type": "list"
+      }
+    },
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心",  "indexs": 0,
       "style": {
         "type": "rect",
         "ratio": 1.597
-      },"jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0},
+      },"jar":"https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4","type":3,"api":"csp_Config","searchable":0,"changeable":0},
 
 
     {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/虎牙直播.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},

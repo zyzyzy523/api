@@ -52,7 +52,6 @@
     {"key":"洽洽影视","name":"洽洽｜APP","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"HG影视","name":"HG影视｜APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cs.hgyx.vip/api2/api.php/app/"},
     {"key":"真心影视","name":"真心｜影视","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"新视觉影视","name":"新视觉｜APP","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/movie/py/XSJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
     {"key":"木头","name":"木头｜App","type":3,"api":"csp_Shark","playerType":1,"ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="},
     {"key":"雨滴","name":"雨滴｜App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="},
     {"key":"蝴蝶","name":"蝴蝶｜App","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
@@ -75,9 +74,6 @@
 
 
     {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://www.xb6v.com"},
-    {"key":"动漫巴士","name":"🌸Anime动漫","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/anime/js/YHDM.js"},
-    {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/anime/js/DMBS.js"},
-    {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/four-d/raw/master/anime/js/YSJ.js"},
     {"key":"立播弹幕","name":"立播","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://www.libvio.cc","danmu":true}},
     {
       "key": "玩偶",
@@ -440,24 +436,7 @@
         "danmu": true
       }
     },
-    {
-      "key": "阿里合集",
-      "name": "阿里｜合集",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
 
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "share": "https://gitee.com/PizazzXS/four-d/raw/master/js/alishare.txt"
-      },
-      "style": {
-        "type": "list"
-      }
-    },
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心",  "indexs": 0,
       "style": {
         "type": "rect",

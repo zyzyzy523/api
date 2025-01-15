@@ -15,7 +15,7 @@
       "name": "iptv365",
       "type": 0,
       "boot": false,
-      "url": "https://live.iptv365.org/live.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"

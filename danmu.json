@@ -2,6 +2,7 @@
   "spider":"https://gitee.com/sierpin/lives/raw/main/jar/fan.txt",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
+    {"name":"tvou","type":0,"url":"https://tv.nxog.top/m//tv/","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
     {
       "name": "fan",
       "type": 0,
@@ -11,7 +12,6 @@
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.iill.top/logo/{name}.png"
     },
-
     {
       "name": "TV",
       "type": 0,

@@ -1,12 +1,11 @@
 {
-  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+  "spider":"https://gitee.com/sierpin/lives/raw/main/jar/fan.txt",
   "wallpaper": "http://tool.teyonds.com/api",
   "lives": [
     {
       "name": "fan",
       "type": 0,
       "boot": false,
-      "jar":"https://gitee.com/sierpin/lives/raw/main/jar/fan.txt",
       "url": "https://gitee.com/sierpin/lives/raw/main/lives.txt",
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",

@@ -19,9 +19,18 @@
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "zbds",
+      "type": 0,
+      "boot": false,
+      "url": "https://live.zbds.top/tv/iptv6.m3u",
+      "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "sites": [
+  "sites",: [
     {"key":"豆瓣","name":"🔍豆瓣", "type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"苹果","name":"🍎小苹果", "type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
     {"key":"金牌影视","name":"🥇金牌","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1},

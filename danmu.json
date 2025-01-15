@@ -28,6 +28,14 @@
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },{
+      "name": "YueChan",
+      "type": 0,
+      "boot": false,
+      "url": "https://gh.tryxd.cn/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "sites": [

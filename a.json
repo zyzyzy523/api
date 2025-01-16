@@ -97,8 +97,6 @@
   ],
 
   "parses": [
-    {
-      "parses": [
         {
           "name": "推荐",
           "type": 1,
@@ -306,8 +304,6 @@
           "type": 0,
           "url": "https://www.ckplayer.vip/jiexi/?url="
         }
-      ]
-    }
   ],
 
 

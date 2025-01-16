@@ -47,24 +47,24 @@
     {"key":"雨滴","name":"雨滴｜App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="},
     {"key":"蝴蝶","name":"蝴蝶｜App","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
     {"key":"1905","name":"1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
-    {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/爱奇艺弹幕.js"},
-    {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/腾讯弹幕.js"},
-    {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/优酷弹幕.js"},
-    {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/芒果弹幕.js"},
-    {"key":"小熊弹幕","name":"小熊｜JS","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/小熊弹幕.js"},
-    {"key":"米兔弹幕","name":"米兔｜JS","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/米兔弹幕.js"},
-    {"key":"追剧迷","name":"追剧迷｜JS","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/追剧弹幕.js"},
-    {"key":"剧圈圈","name":"剧圈圈｜JS","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/JQQ.js"},
+    {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/爱奇艺弹幕.js"},
+    {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/腾讯弹幕.js"},
+    {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/优酷弹幕.js"},
+    {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/芒果弹幕.js"},
+    {"key":"小熊弹幕","name":"小熊｜JS","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/小熊弹幕.js"},
+    {"key":"米兔弹幕","name":"米兔｜JS","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/米兔弹幕.js"},
+    {"key":"追剧迷","name":"追剧迷｜JS","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/追剧弹幕.js"},
+    {"key":"剧圈圈","name":"剧圈圈｜JS","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/JQQ.js"},
     {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com"},
 
-    {"key":"56动漫","name":"56｜动漫","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/56动漫.js"},
-    {"key":"NT动漫","name":"NT｜动漫","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/NT动漫.js"},
-    {"key":"Anime1","name":"Anime1｜动漫","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/Anime1.js"},
+    {"key":"56动漫","name":"56｜动漫","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/56动漫.js"},
+    {"key":"NT动漫","name":"NT｜动漫","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/NT动漫.js"},
+    {"key":"Anime1","name":"Anime1｜动漫","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/Anime1.js"},
     {"key":"哆啦新番社","name":"哆啦｜新番社","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"list"},"ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main//XBPQ/哆啦新番社.json"},
-    {"key":"动画片","name":"动画片｜动漫","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/动画片大全.js"},
-    {"key":"路漫漫","name":"路漫漫｜动漫","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/路漫漫.js"},
-    {"key":"异世界","name":"异世界｜动漫","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/drpy2.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/异世界.js"},
-    {"key":"短剧合集","name":"短剧｜合集","type":3,"api":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/quark.min.js","ext":"https://raw.gitcode.com/zyzyzy5/box/raw/main/JS/短剧合集.js","style":{"type":"list"}},
+    {"key":"动画片","name":"动画片｜动漫","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/动画片大全.js"},
+    {"key":"路漫漫","name":"路漫漫｜动漫","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/路漫漫.js"},
+    {"key":"异世界","name":"异世界｜动漫","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/drpy2.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/异世界.js"},
+    {"key":"短剧合集","name":"短剧｜合集","type":3,"api":"https://gitee.com/sierpin/lives/raw/main/JS/quark.min.js","ext":"https://gitee.com/sierpin/lives/raw/main/JS/短剧合集.js","style":{"type":"list"}},
 
 
     {"key":"立播弹幕","name":"立播","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://www.libvio.cc","danmu":true}},
@@ -98,215 +98,211 @@
 
   "parses": [
     {
-      "parses": [
-        {
-          "name": "推荐",
-          "type": 1,
-          "url": "https://jxjson.icu/neibu.php?url=",
-          "ext": {
-            "flag": [
-              "qq",
-              "腾讯",
-              "qiyi",
-              "爱奇艺",
-              "奇艺",
-              "youku",
-              "优酷",
-              "sohu",
-              "搜狐",
-              "letv",
-              "乐视",
-              "mgtv",
-              "芒果",
-              "tnmb",
-              "seven",
-              "bilibili",
-              "1905"
-            ],
-            "header": {
-              "User-Agent": "okhttp/4.9.1"
-            }
-          }
-        },
-        {
-          "name": "优选",
-          "type": 1,
-          "url": "http://1.94.221.189:88/algorithm.php?url=",
-          "ext": {
-            "flag": [
-              "qq",
-              "腾讯",
-              "qiyi",
-              "爱奇艺",
-              "奇艺",
-              "youku",
-              "优酷",
-              "sohu",
-              "搜狐",
-              "letv",
-              "乐视",
-              "mgtv",
-              "芒果",
-              "tnmb",
-              "seven",
-              "bilibili",
-              "1905"
-            ],
-            "header": {
-              "User-Agent": "okhttp/4.9.1"
-            }
-          }
-        },
-        {
-          "name": "臻享",
-          "type": "1",
-          "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
-          "ext": {
-            "flag": [
-              "qq",
-              "腾讯",
-              "qiyi",
-              "爱奇艺",
-              "奇艺",
-              "youku",
-              "优酷",
-              "sohu",
-              "搜狐",
-              "letv",
-              "乐视",
-              "mgtv",
-              "芒果",
-              "tnmb",
-              "seven",
-              "bilibili",
-              "1905"
-            ],
-            "header": {
-              "User-Agent": "okhttp/4.9.1"
-            }
-          }
-        },
-        {
-          "name": "至臻",
-          "type": 1,
-          "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
-          "ext": {
-            "flag": [
-              "qq",
-              "腾讯",
-              "qiyi",
-              "爱奇艺",
-              "奇艺",
-              "youku",
-              "优酷",
-              "sohu",
-              "搜狐",
-              "letv",
-              "乐视",
-              "mgtv",
-              "芒果",
-              "tnmb",
-              "seven",
-              "bilibili",
-              "1905"
-            ],
-            "header": {
-              "User-Agent": "okhttp/4.9.1"
-            }
-          }
-        },
-        {
-          "name": "HGvip",
-          "type": 1,
-          "url": "http://1.94.221.189:88/algorithm.php?url=",
-          "ext": {
-            "flag": [
-              "hgvip"
-            ],
-            "header": {
-              "User-Agent": "okhttp/4.9.1"
-            }
-          }
-        },
-        {
-          "name": "皮皮虾",
-          "type": "1",
-          "url": "http://45.207.215.101:5423/index.php?url=",
-          "ext": {
-            "flag": [
-              "PPXLG",
-              "皮皮虾4K"
-            ]
-          }
-        },
-        {
-          "name": "无双",
-          "type": 0,
-          "url": " http://103.117.123.193:1980/players/?url=",
-          "ext": {
-            "flag": [
-              "mgtv",
-              "芒果",
-              "RY",
-              "VIP线路"
-            ],
-            "header": {
-              "User-Agent": "okhttp/4.9.1"
-            }
-          }
-        },
-        {
-          "name": "线路1",
-          "type": 0,
-          "url": "https://jx.quankan.app/?url=",
-          "ext": {
-            "header": {
-              "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-            }
-          }
-        },
-        {
-          "name": "线路2",
-          "type": 0,
-          "url": "https://jx.yparse.com/index.php?url=",
-          "ext": {
-            "header": {
-              "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-            }
-          }
-        },
-        {
-          "name": "线路3",
-          "type": 0,
-          "url": "https://jx.aidouer.net/?url=",
-          "ext": {
-            "header": {
-              "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-              "referer": "https://jiejie.uk/"
-            }
-          }
-        },
-        {
-          "name": "线路4",
-          "type": 0,
-          "url": "https://www.8090g.cn/?url="
-        },
-        {
-          "name": "线路5",
-          "type": 0,
-          "url": "https://jx.yangtu.top?url="
-        },
-        {
-          "name": "线路6",
-          "type": 0,
-          "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-          "name": "线路7",
-          "type": 0,
-          "url": "https://www.ckplayer.vip/jiexi/?url="
+      "name": "推荐",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
         }
-      ]
+      }
+    },
+    {
+      "name": "优选",
+      "type": 1,
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "臻享",
+      "type": "1",
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "至臻",
+      "type": 1,
+      "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "HGvip",
+      "type": 1,
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "ext": {
+        "flag": [
+          "hgvip"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "皮皮虾",
+      "type": "1",
+      "url": "http://45.207.215.101:5423/index.php?url=",
+      "ext": {
+        "flag": [
+          "PPXLG",
+          "皮皮虾4K"
+        ]
+      }
+    },
+    {
+      "name": "无双",
+      "type": 0,
+      "url": " http://103.117.123.193:1980/players/?url=",
+      "ext": {
+        "flag": [
+          "mgtv",
+          "芒果",
+          "RY",
+          "VIP线路"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "线路1",
+      "type": 0,
+      "url": "https://jx.quankan.app/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "线路2",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "线路3",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://jiejie.uk/"
+        }
+      }
+    },
+    {
+      "name": "线路4",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "线路5",
+      "type": 0,
+      "url": "https://jx.yangtu.top?url="
+    },
+    {
+      "name": "线路6",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "线路7",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
     }
   ],
 

@@ -6,10 +6,10 @@
       "name": "TV",
       "type": 0,
       "boot": true,
-      "url": "https://gitee.com/sierpin/lives/raw/main/tv.m3u",
-      "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "playerType":1,
+      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo":"https://epg.iill.top/logo/{name}.png",
+      "url": "https://gitee.com/sierpin/lives/raw/main/tv.m3u"
     }
   ],
   "sites": [

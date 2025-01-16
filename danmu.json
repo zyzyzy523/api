@@ -7,7 +7,7 @@
       "name": "fan",
       "type": 0,
       "boot": false,
-      "url": "https://gitee.com/sierpin/lives/raw/main/lives.txt",
+      "url": "https://gitee.com/sierpin/lives/raw/main/fm.m3u",
       "url11": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/master/tv/m3u/ipv6.m3u",
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.iill.top/logo/{name}.png"

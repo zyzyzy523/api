@@ -1,218 +1,165 @@
 #EXTM3U x-tvg-url="https://epg.zbds.top" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUx5YmFoeWh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNmd6K0VSMGViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxTL1JnaXh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JDNmdYMUVBbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnQ2x6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOElNLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+http://z.b.bkpcp.top/m.php?id=cctv1
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUx5aldneTF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMUV4b0xOLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxpblFoaWx6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNndQMEVCd2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUx5aldneTF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMUV4b0xOLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+https://www.freetv.top/migu/631780532.m3u8?migutoken=11ecfe0a296dcd532df72244565e20008b5a2e6936c05e73d9c90abe54b5bbffc942f2912e3fdd518714c4a7ad984beed028d07db3d49b8d1e21c54686ebfa8546f79a57d969866753cca722cc
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUx5L1dneTl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNmdYeUZSb2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnQzl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOElOZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+http://z.b.bkpcp.top/m.php?id=cctv3
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FnQ2h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUM0ZBbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnQzV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOElOUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+http://z.b.bkpcp.top/m.php?id=cctv4o
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIdUx5clJnaWh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFmMUVSMEtNdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnQzF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOElOLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+http://z.b.bkpcp.top/m.php?id=cctv5
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxpcmJpUzF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNndEL0h4Z2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneXh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExOdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
+http://z.b.bkpcp.top/m.php?id=cctv5p
 
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxTN2FoU056bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmM0ZSWU5PZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxTblVpUzV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNkFQd0h4c2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnQ3h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOElOdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUx5bldoQ2x6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMUVob01NLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxTYlRoeTF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNkF6M0VSZ2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnQ056bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOElPZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxTN1RpU3B6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNkFUM0h4OGViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnQ0p6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOElPUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxpblVpQzl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMEVoZ0FOZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUtDL1FoaWh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDN1FYMEVCMGViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnQ0Z6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOElPLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUx5amFoUzV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMUV4WU5OUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxpL2JnaU56bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JCNmcvMUh3bFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneXB6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExNUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FnQ3h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUM0VBbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneWx6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExNLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUtDL1hpeTV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmeUZCc0ROUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUx5L1VpQ3h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNmdYd0hoa2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneWh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExNdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FnQ0p6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUM0hnbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxTWFFpU3B6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmM0hod0JNUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxTdlZpUzl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JDN2dIK0V3bFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneTl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExOZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FnQ0Z6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUM0hRbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneTV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExOUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZlBtV1hIc0tDalRnQ2h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5RUJDNkFYeUV4OElNdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZlBtV1hIc0t5WFRnQzV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5RUJDNkFYeEhoOElOUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneTF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExOLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
+http://z.b.bkpcp.top/m.php?id=cctv6
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+http://z.b.bkpcp.top/m.php?id=cctv7
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+http://z.b.bkpcp.top/m.php?id=cctv8
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+http://z.b.bkpcp.top/m.php?id=cctv9
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
+http://z.b.bkpcp.top/m.php?id=cctv10
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+http://z.b.bkpcp.top/m.php?id=cctv11
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+http://z.b.bkpcp.top/m.php?id=cctv12
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+http://z.b.bkpcp.top/m.php?id=cctv13
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
+http://z.b.bkpcp.top/m.php?id=cctv14
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+http://z.b.bkpcp.top/m.php?id=cctv15
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+http://www.clmy.cc:35455/gaoma/cctv16.m3u8
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
+http://z.b.bkpcp.top/m.php?id=cctv17
 
 
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxpWFRoQzV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNncvM0Voc2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUx5M1hoeWx6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNmdmekVSd2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnaU56bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOEtPZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUtDM1FoeUZ6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmeUZod1BPLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxTYlloeTV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNkF6OEVSc2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnaTF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOEtOLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="福建卫视" tvg-name="福建卫视" tvg-logo="https://live.fanmingming.cn/tv/福建卫视.png" group-title="卫视频道",福建卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxpM1VpQzV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JCNkFEL0VnbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="福建卫视" tvg-name="福建卫视" tvg-logo="https://live.fanmingming.cn/tv/福建卫视.png" group-title="卫视频道",福建卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRoUzl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOE5OZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FnaWx6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUMUZRbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxpblFpU3h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMEVod0JOdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUtDN1RpU3h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDN1FUM0h4a2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRoUzV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOE5OUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FneUp6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUMEhnbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUx5cmJoQzl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JBN3cvekV3bFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxTdlJneWx6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JDN2dYMEZRbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZlBtV1hIdUtTM1RneXh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkg5Unk4a0JHNkFmMEVBbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FneUZ6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUMEhRbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxTN1lnaTF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmM0ZSUUtOLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxpdlVneXB6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNndId0ZSOGViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnaUZ6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOEtPLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUx5blZnaWx6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMUVoa0tNLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxpclhoU3h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNndEekV4a2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnaTl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOEtOZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnaTV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOEtOUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FneU56bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUMEh3bFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxpbmJoaWx6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNndQL0VCd2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxTN2JnaUp6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmM0ZSY0tPUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRoU3B6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOE5NUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZlBtV1hIc0t5WFRnQ2x6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5RUJDNkFYeEhoOElNLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRoU2h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOE5NdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxpN1ZpU2x6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JCNndIK0ZRbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnaWh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOEtNdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmZtV1hIdUxpaldoeUZ6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4RUJDNkFmMEV4b1BPLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxpdlVoaUp6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMEVCZ09PUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxTblFoUzV6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNkFQMEV4c2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneUZ6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExPLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="上海卫视" tvg-name="上海卫视" tvg-logo="https://live.fanmingming.cn/tv/上海卫视.png" group-title="卫视频道",上海卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxTalZoU0Z6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNkFMeEV4UWViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="上海卫视" tvg-name="上海卫视" tvg-logo="https://live.fanmingming.cn/tv/上海卫视.png" group-title="卫视频道",上海卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxpblRpeUp6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JCN0FmOEhnbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="上海卫视" tvg-name="上海卫视" tvg-logo="https://live.fanmingming.cn/tv/上海卫视.png" group-title="卫视频道",上海卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneUp6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExPUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxTVFhneXB6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JDNFFQMEZnbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxTL1FneXh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNkFYMEZSa2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnaUp6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOEtPUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxTdlFneUZ6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JDN2dUMEhRbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxTdmJnaU56bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JDN2cvMUh3bFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZmJtV1hIdUxTYlFpQ3h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkZHk4a0JDNkF6MEhoa2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRnaXh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOEtOdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIdUtDN1FnaXB6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMUd0Unk4a0JINndUMUZnbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AZkhtV1hIdUxTVFJpUzF6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzRlAxZUY5V3UzZExq%0AUjNJUjM3T1NkbnpzSDF2SFdFT05SMkhkUnk4a0JDNFFYK0VRbFVhNjI0dGxrQk5wcGVQbklIS2lT%0Ad3ZmRT0%3D%0A
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxpblJoaXB6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmMEVoME9NUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRoU2x6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOE5NLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxTN1RpeXh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmM0ZSOEROdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5clRneU56bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVSOExPZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
+
+
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
+http://nas.zyylover.homes:35455/itv/5000000004000006119.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://nas.zyylover.homes:35455/itv/5000000011000031118.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
+http://nas.zyylover.homes:35455/itv/5000000006000040016.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://nas.zyylover.homes:35455/itv/1000000002000027731.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://nas.zyylover.homes:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://nas.zyylover.homes:35455/itv/1000000005000265029.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225624/2.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://nas.zyylover.homes:35455/itv/5000000011000031117.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://nas.zyylover.homes:35455/itv/5000000011000031121.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
+http://nas.zyylover.homes:35455/itv/5000000011000031120.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
+http://nas.zyylover.homes:35455/itv/5000000004000006211.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://nas.zyylover.homes:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://nas.zyylover.homes:35455/itv/5000000006000040015.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225638/2.m3u8
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.cn/tv/农林卫视.png" group-title="卫视频道",农林卫视
+http://[2409:8087:7008:20::a]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226439/2.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="卫视频道",安多卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://220.164.192.48:50085/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225660/2.m3u8
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="卫视频道",珠江卫视
+http://nas.zyylover.homes:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="卫视频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
+http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
+#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 
 
 
 #EXTINF:-1 tvg-name="newtv明星大片" tvg-logo="https://live.fanmingming.cn/tv/NEWTV明星大片.png" group-title="数字频道",明星大片
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHFhN0dxRGtScWR2%0AZkRtV1hIdUxTM1RneXh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIzdEd3dmRyVTczL2VS%0AOXlLQWZvUERjem5jNzN2SFdFT05SMkdkUjM4a0JDNkFmM0Zod09KcmUwcjA4S0lNRUtKelJWUFJ1%0AMnlmWUcvdz09%0A
-
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-name="newtv欢乐剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV欢乐剧场.png" group-title="数字频道",欢乐剧场
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkxtV1hIc0t5dlRneWh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5VUJDNkFYeEVCOExNdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级综艺.png" group-title="数字频道",超级综艺
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZlBtV1hIc0t5WFRnQ2h6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5RUJDNkFYeEhoOElNdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电影.png" group-title="数字频道",超级电影
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZkRtV1hIdUxpL1hnaXh6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5MEJDNkFmMEZCc0tOdjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级电视剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电视剧.png" group-title="数字频道",超级视剧
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZlBtV1hIc0t5WFRnQzl6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk5RUJDNkFYeEhoOElOZjJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
-
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级体育.png" group-title="数字频道",超级体育
-http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxTYlZnQ2x6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmM0hSa0lNLzJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A
+http://[2409:8087:74d9:21::4]:80/270000001128/index.m3u8?cmcc_cid=9900000020
 
 
 

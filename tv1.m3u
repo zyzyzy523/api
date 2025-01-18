@@ -135,44 +135,24 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
 http://175.9.161.9:9999/rtp/239.76.253.110:9000
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
-http://175.9.161.9:9999/rtp/239.76.252.122:9000
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
-http://175.9.161.9:9999/rtp/239.76.253.107:9000
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
-http://175.9.161.9:9999/rtp/239.76.252.120:9000
+http://116.128.251.182:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1,tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://175.9.161.9:9999/rtp/239.76.253.109:9000
-#EXTINF:-1,tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
-http://175.9.161.9:9999/rtp/239.76.252.123:9000
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
 #EXTINF:-1,tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://175.9.161.9:9999/rtp/239.76.253.108:9000
-#EXTINF:-1,tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://175.9.161.9:9999/rtp/239.76.252.118:9000
+http://116.128.251.182:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1,tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://175.9.161.9:9999/rtp/239.76.253.106:9000
-#EXTINF:-1,tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
-http://175.9.161.9:9999/rtp/239.76.252.119:9000
+http://175.10.230.91:8081/tsfile/live/0019_1.m3u8
 #EXTINF:-1,tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://175.9.161.9:9999/rtp/239.76.253.104:9000
-#EXTINF:-1,tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
-http://175.9.161.9:9999/rtp/239.76.252.117:9000
+http://116.128.251.182:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1,tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://175.9.161.9:9999/rtp/239.76.253.102:9000
-#EXTINF:-1,tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://175.9.161.9:9999/rtp/239.76.252.240:9000
-#EXTINF:-1,tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://epg.v1.mk/logo/湖南国际.png" group-title="湖南",湖南国际
-http://175.9.161.9:9999/rtp/239.76.252.124:9000
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
 #EXTINF:-1,tvg-id="湖南教育" tvg-name="湖南教育" tvg-logo="https://epg.v1.mk/logo/湖南教育.png" group-title="湖南",湖南教育
-http://175.9.161.9:9999/rtp/239.76.252.233:9000
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://175.9.161.9:9999/rtp/239.76.253.103:9000
-#EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://175.9.161.9:9999/rtp/239.76.252.116:9000
-#EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://175.9.161.9:9999/rtp/239.76.251.86:9000
+http://116.128.251.182:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1,tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
-http://175.9.161.9:9999/rtp/239.76.253.105:9000
+http://116.128.251.182:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1,tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://epg.v1.mk/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 http://175.9.161.9:9999/rtp/239.76.252.121:9000
 #EXTINF:-1,tvg-id="长沙影视" tvg-name="长沙影视" tvg-logo="https://epg.v1.mk/logo/长沙影视.png" group-title="长沙",长沙购物

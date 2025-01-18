@@ -1,3 +1,7 @@
+http://172.28.246.35:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736925453718/zq.txt
+
+
+
 
 
 北京纪实科教,http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROHVhN0dxRGtScWR2%0AZmJtV1hIdUxTN1lneXB6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIyaGQxUEpwVktEdU9I%0AeEdOeDM3TlMwc2twWDZ2M1dFT05SMkdkUnk4VUJDNkFmM0ZSUUxNUDJ6c2w0Q1B0UUpmemhBYmhx%0AZzRObGRvKzA9%0A

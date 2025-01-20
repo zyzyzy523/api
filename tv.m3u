@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.zbds.top" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://116.128.251.182:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&down=1
-http://113.195.44.106:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+http://115.225.25.219:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://116.128.251.182:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
@@ -96,7 +95,7 @@ http://116.141.46.135:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://116.141.46.135:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://113.195.44.106:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=00
+http://115.225.25.219:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视

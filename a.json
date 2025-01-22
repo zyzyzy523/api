@@ -1,6 +1,7 @@
 {
   "spider": "https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;793e989bdcfda6948474e6e517c0df73",
   "wallpaper": "http://tool.teyonds.com/api",
+  "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
       "name": "TV",

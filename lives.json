@@ -5,7 +5,7 @@
     {
       "name": "TV",
       "type": 0,
-      "boot": true,
+      "boot": false,
       "playerType":1,
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.iill.top/logo/{name}.png",

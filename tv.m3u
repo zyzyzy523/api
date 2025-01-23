@@ -52,6 +52,10 @@ http://175.11.75.126:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 http://175.11.75.126:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://175.11.75.126:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="香港",凤凰中文
+http://175.9.160.99:8989/rtp/239.76.253.135:9000
+
+
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://175.11.75.126:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
@@ -123,7 +127,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 
 
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
-http://175.11.75.126:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+http://175.9.160.99:8989/rtp/239.76.253.103:9000
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
 http://175.9.160.99:8989/rtp/239.76.253.110:9000
 #EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
@@ -131,7 +135,7 @@ http://175.9.160.99:8989/rtp/239.76.253.107:9000
 #EXTINF:-1,tvg-id="湖南爱晚" tvg-name="湖南爱晚" tvg-logo="https://epg.v1.mk/logo/湖南爱晚.png" group-title="湖南",湖南爱晚
 http://175.9.160.99:8989/rtp/239.76.253.109:9000
 #EXTINF:-1,tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
-http://175.11.75.126:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+http://175.9.160.99:8989/rtp/239.76.253.108:9000
 #EXTINF:-1,tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://epg.v1.mk/logo/湖南电影.png" group-title="湖南",湖南电影
 http://175.9.160.99:8989/rtp/239.76.253.106:9000
 #EXTINF:-1,tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
@@ -159,6 +163,20 @@ http://175.9.160.99:8989/rtp/239.76.252.204:9000
 http://175.9.160.99:8989/rtp/239.76.253.122:9000
 
 
+
+
+#EXTINF:-1,tvg-id="IPTV电视剧" tvg-name="IPTV电视剧" tvg-logo="https://epg.v1.mk/logo/IPTV电视剧.png" group-title="其他",IPTV电竞
+http://175.9.160.99:8989/rtp/239.76.252.214:9000
+#EXTINF:-1,tvg-id="IPTV电视剧" tvg-name="IPTV电视剧" tvg-logo="https://epg.v1.mk/logo/IPTV电视剧.png" group-title="其他",IPTV电竞
+http://175.9.160.99:8989/rtp/239.76.252.136:9000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV高清院线
+http://175.9.160.99:8989/rtp/239.76.252.217:9000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV古装剧场
+http://175.9.160.99:8989/rtp/239.76.252.219:9000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV故事
+http://175.9.160.99:8989/rtp/239.76.253.41:9000
+#EXTINF:-1,tvg-id="BEIJINGIPTV4K" tvg-name="BEIJINGIPTV4K" tvg-logo="https://epg.v1.mk/logo/BEIJINGIPTV4K.png" group-title="其他",IPTV家庭剧场
+http://175.9.160.99:8989/rtp/239.76.252.220:9000
 
 #EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/兵器科技.png" group-title="其他",CCTV兵器科技
 http://175.9.160.99:8989/rtp/239.76.254.59:9000

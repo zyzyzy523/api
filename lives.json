@@ -4,18 +4,9 @@
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
-      "name": "直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "url": "tv.m3u",
-      "timeout": 10,
-      "ua": "okhttp/3.15",
-      "boot": true
-    },
-    {
       "name": "TV",
       "type": 0,
-      "boot": false,
+      "boot": true,
       "playerType":1,
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.iill.top/logo/{name}.png",

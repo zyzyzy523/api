@@ -32,7 +32,7 @@ http://42.48.23.243:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://42.48.23.243:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://14.204.53.174:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+http://113.195.47.23:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://61.173.144.157:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 

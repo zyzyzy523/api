@@ -2,3 +2,9 @@
 不更新
 
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI0NDUxOTY1NjY5MjA3MzcsImlhdCI6MTczNjk1NDcyMywiZXhwIjoxNzY5Nzg2NzIzfQ.BEP9z8oRdG8hqaph-jYS18pc7fCZOTYk-H21ceRoSWw
+
+
+
+certutil -hashfile ./jar/spider.jar md5
+
+md5 ./jar/spider.jar

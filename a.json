@@ -18,7 +18,8 @@
       "api": "csp_Feiyang",
       "url": "https://9877.kstore.space/Live/live.m3u",
       "timeout": 10,
-      "ua": "okhttp/3.15"
+      "ua": "okhttp/3.15",
+      "ext": "https://gitee.com/sierpin/lives/raw/main/allinone;md5;2119bb6d27f9f2c58a8f83bf1d919c68"
     }
   ],
   "sites": [

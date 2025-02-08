@@ -19,7 +19,7 @@
       "url": "https://9877.kstore.space/Live/live.m3u",
       "timeout": 10,
       "ua": "okhttp/3.15",
-      "ext": "https://gitee.com/sierpin/lives/raw/main/allinone.jar;md5;5520ba753b9305522a03139b3ebd8926"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/zyzyzy523/api/main1/allinone;md5;5520ba753b9305522a03139b3ebd8926"
     }
   ],
   "sites": [

@@ -50,9 +50,7 @@ http://61.173.144.157:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=
 http://112.6.165.112:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://180.175.161.37:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-http://112.6.165.112:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+https://ldncctvwbcdks.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?BR=td&region=shanghai
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 http://61.173.144.157:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.6.165.112:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0

@@ -441,7 +441,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "http://45.207.212.215:12121",
+        "site": "http://103.45.162.207:20720",
         "danmu": true
       }
     },
@@ -580,17 +580,6 @@
       "ext": "https://cs.hgyx.vip/api2/api.php/app/"
     },
     {
-      "key": "九龙影视",
-      "name": "九龙｜APP",
-      "type": 3,
-      "api": "./PY/九龙影视.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "猎手影视",
       "name": "猎手｜APP",
       "type": 3,
@@ -603,11 +592,11 @@
     },
     {
       "key": "世纪",
-      "name": "世纪｜APP",
+      "name": "世纪｜App",
       "type": 3,
       "api": "csp_Drama",
       "playerType": 2,
-      "ext": "saHR0cDovLzExMC40Mi40OS42ODo4OTAwfENEQjZXTU5BTVhCRFNGRFVVS1hJRU1PMVVHMU1VTEoxfDJDMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVafDIw"
+      "ext": "saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA=="
     },
     {
       "key": "图图",
@@ -706,6 +695,15 @@
       "ext": "saHR0cDovL3R4dC55eXlzLm5ld3MvdjQudHh0fGlsYnZ6d3o1MGthZ3U5eHR8aWxidnp3ejUwa2FndTl4dHw1NDQ="
     },
     {
+      "key": "闹闹",
+      "name": "闹闹｜App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw"
+    },
+    {
       "key": "蝴蝶",
       "name": "蝴蝶｜App",
       "type": 3,
@@ -799,6 +797,62 @@
       "name": "尘落｜APP",
       "type": 3,
       "api": "csp_Wetv"
+    },
+    {
+      "key": "小米虎虎",
+      "name": "虎虎｜APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppHuhu"
+    },
+    {
+      "key": "小米眼镜",
+      "name": "眼镜｜APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_AppYanjing"
+    },
+    {
+      "key": "小米米兔",
+      "name": "米兔｜APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp"
+    },
+    {
+      "key": "小米玉米",
+      "name": "玉米｜APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_YuMiApp"
+    },
+    {
+      "key": "小米电影",
+      "name": "电影｜APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MovieApp"
+    },
+    {
+      "key": "小米多多",
+      "name": "多多｜APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_DuoDuoApp"
+    },
+    {
+      "key": "小米良人",
+      "name": "良人｜APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_LiangRenApp"
     },
     {
       "key": "西瓜视频",
@@ -2119,9 +2173,13 @@
       "name": "肥羊直播",
       "type": 3,
       "api": "csp_Feiyang",
-      "url": "tv.m3u",
+      "url": "https://9877.kstore.space/Live/live.m3u",
       "timeout": 10,
-      "ua": "okhttp/3.15"
+      "ua": "okhttp/3.15",
+      "catchup": {
+        "type": "append",
+        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+      }
     },
     {
       "name": "AI直播",
@@ -2143,7 +2201,7 @@
       "name": "虎牙一起看",
       "type": 3,
       "api": "csp_Feiyang",
-      "url": "huyayqk.m3u",
+      "url": "https://9877.kstore.space/Live/huyayqk.m3u",
       "timeout": 10,
       "ua": "okhttp/3.15"
     },
@@ -2151,7 +2209,7 @@
       "name": "斗鱼一起看",
       "type": 3,
       "api": "csp_Feiyang",
-      "url": "douyuyqk.m3u",
+      "url": "https://9877.kstore.space/Live/douyuyqk.m3u",
       "timeout": 10,
       "ua": "okhttp/3.15"
     },
@@ -2159,7 +2217,7 @@
       "name": "YY轮播",
       "type": 3,
       "api": "csp_Feiyang",
-      "url": "yylunbo.m3u",
+      "url": "https://9877.kstore.space/Live/yylunbo.m3u",
       "timeout": 10,
       "ua": "okhttp/3.15"
     },

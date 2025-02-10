@@ -65,7 +65,6 @@
 
     {"key":"耐看影视","name":"耐看｜影视","type":3,"api":"csp_WebNK","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="},
 
-    {"key":"小米尘落","name":"尘落｜APP","type":3,"api":"csp_Wetv"},
     {"key":"西瓜视频","name":"西瓜｜视频","type":3,"api":"csp_AmuXiguaV2","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
     {"key":"饭团影视","name":"饭团｜影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"来看影视","name":"来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},

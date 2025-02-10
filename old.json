@@ -876,6 +876,24 @@
       "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
     },
     {
+      "key": "爱看机器人",
+      "name": "爱看｜影视",
+      "type": 3,
+      "api": "csp_IkanBot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "南瓜影视",
+      "name": "南瓜｜影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "低端影视",
       "name": "低端｜影视",
       "type": 3,

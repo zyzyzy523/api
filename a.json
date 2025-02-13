@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;b380b988543a486a3da633b73f10c024",
+  "spider": "https://gitee.com/sierpin/lives/raw/main/jar/spider.jar;md5;9d280858771dfe8e0968772393074f94",
   "wallpaper": "http://tool.teyonds.com/api",
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
@@ -106,7 +106,7 @@
     {"key":"夸克六趣弹幕","name":"六趣｜4K弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://wp.0v.fit","danmu":true}},
     {"key":"夸克白嫖弹幕","name":"白嫖｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://smdyo.top","danmu":true}},
     {"key":"夸克虎斑弹幕","name":"虎斑｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"http://103.45.162.207:20720","danmu":true}},
-    {"key":"夸克下饭弹幕","name":"下饭｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"http://txfyyds.top","danmu":true}},
+    {"key":"夸克下饭弹幕","name":"下饭｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"http://txfpan.top","danmu":true}},
     {"key":"夸克影搜弹幕","name":"影搜｜弹幕","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
     {"key":"搜索弹幕","name":"搜索｜弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true}},
     {"key":"易搜弹幕","name":"易搜｜弹幕","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true,"cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"}},

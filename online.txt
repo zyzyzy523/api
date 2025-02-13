@@ -89,10 +89,10 @@ http://127.0.0.1:35345/itv/5000000011000031120.m3u8?cdn=bestzb
 http://127.0.0.1:35345/itv/5000000006000040017.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://127.0.0.1:35345/itv/5000000006000040023.m3u8?cdn=bestzb
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="湖南",金鹰卡通
 #EXTINF:-1,tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://epg.v1.mk/logo/湖南经视.png" group-title="湖南",湖南经视
 http://127.0.0.1:35345/itv/7766420291569067385.m3u8?cdn=hnbblive
 #EXTINF:-1,tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://epg.v1.mk/logo/湖南都市.png" group-title="湖南",湖南都市
 http://127.0.0.1:35345/itv/4682579636905393407.m3u8?cdn=hnbblive
 #EXTINF:-1,tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://epg.v1.mk/logo/湖南电视剧.png" group-title="湖南",湖南电视剧
 http://127.0.0.1:35345/itv/8765482907954673867.m3u8?cdn=hnbblive
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="湖南",金鹰卡通

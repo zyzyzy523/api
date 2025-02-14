@@ -259,7 +259,7 @@ http://119.62.62.67:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
 http://113.57.20.158:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.226.4.10:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-http://1.195.63.201:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
+http://1.192.0.169:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://60.214.104.110:352/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.195.30.9:19901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0

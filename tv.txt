@@ -154,6 +154,7 @@ http://ycsj.aguihome.com:4022/udp/233.50.200.190:5140
 http://ycsj.aguihome.com:4022/udp/233.50.201.103:5140					
 http://119.62.80.149:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+http://iptv.0564.org:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -162,12 +163,14 @@ http://ycsj.aguihome.com:4022/udp/233.50.200.179:5140
 http://ycsj.aguihome.com:4022/udp/233.50.201.107:5140					
 http://119.62.80.149:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
+http://iptv.0564.org:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
 http://218.92.37.174:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://ycsj.aguihome.com:4022/udp/233.50.200.144:5140					
 http://ycsj.aguihome.com:4022/udp/233.50.201.106:5140					
 http://119.62.80.149:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.0564.org:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 http://iptv.0564.org:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -176,11 +179,13 @@ http://ycsj.aguihome.com:4022/udp/233.50.200.146:5140
 http://ycsj.aguihome.com:4022/udp/233.50.201.125:5140					
 http://119.62.80.149:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+http://iptv.0564.org:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
 http://218.92.37.174:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://ycsj.aguihome.com:4022/udp/233.50.200.145:5140					
 http://ycsj.aguihome.com:4022/udp/233.50.200.231:5140					
 http://119.62.80.149:9901/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.0564.org:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
 http://iptv.0564.org:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -190,6 +195,7 @@ http://ycsj.aguihome.com:4022/udp/233.50.200.106:5140
 http://ycsj.aguihome.com:4022/udp/233.50.201.113:5140					
 http://119.62.80.149:9901/tsfile/live/0135_2.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
+http://iptv.0564.org:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -198,12 +204,14 @@ http://ycsj.aguihome.com:4022/udp/233.50.200.104:5140
 http://ycsj.aguihome.com:4022/udp/233.50.201.104:5140					
 http://119.62.80.149:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+http://iptv.0564.org:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
 http://218.92.37.174:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://ycsj.aguihome.com:4022/udp/233.50.200.147:5140					
 http://ycsj.aguihome.com:4022/udp/233.50.201.114:5140					
 http://119.62.80.149:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.0564.org:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
 http://iptv.0564.org:35455/itv/1000000005000265023.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -213,11 +221,13 @@ http://ycsj.aguihome.com:4022/udp/233.50.200.114:5140
 http://ycsj.aguihome.com:4022/udp/233.50.201.143:5140					
 http://119.62.80.149:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+http://iptv.0564.org:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://ycsj.aguihome.com:4022/udp/233.50.201.105:5140					
 http://119.62.80.149:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.0564.org:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 http://iptv.0564.org:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
 http://218.92.37.174:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -225,6 +235,7 @@ http://1.192.16.153:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 http://ycsj.aguihome.com:4022/udp/233.50.200.188:5140					
 http://ycsj.aguihome.com:4022/udp/233.50.201.101:5140					
 http://119.62.80.149:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.0564.org:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
 http://iptv.0564.org:35455/itv/1000000005000265028.m3u8?cdn=ystenlive
 http://218.92.37.174:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -234,12 +245,14 @@ http://ycsj.aguihome.com:4022/udp/233.50.201.102:5140
 http://ycsj.aguihome.com:4022/udp/233.50.200.187:5140					
 http://119.62.80.149:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+http://iptv.0564.org:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://ycsj.aguihome.com:4022/udp/233.50.200.119:5140					
 http://ycsj.aguihome.com:4022/udp/233.50.201.145:5140					
+http://iptv.0564.org:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
 http://iptv.0564.org:35455/itv/1000000005000265032.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -252,6 +265,7 @@ http://1.192.16.153:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://ycsj.aguihome.com:4022/udp/233.50.201.141:5140					
 http://119.62.80.149:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.0564.org:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
 http://iptv.0564.org:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -287,11 +301,13 @@ http://1.192.16.153:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 http://ycsj.aguihome.com:4022/udp/233.50.201.146:5140					
 http://119.62.80.149:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 http://iptv.0564.org:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+http://iptv.0564.org:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.92.37.174:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 http://1.192.16.153:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
 http://119.62.80.149:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
+http://iptv.0564.org:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
 http://iptv.0564.org:35455/itv/1000000002000013359.m3u8?cdn=ystenlive
 http://58.19.43.46:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视

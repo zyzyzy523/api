@@ -9,7 +9,7 @@
       "boot": true,
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.iill.top/logo/{name}.png",
-      "url": "./tv.txt",
+      "url": "https://raw.gitmirror.com/zyzyzy523/api/main/tv.txt",
       "timeout": "5",
       "playerType": 2
     }
@@ -84,22 +84,22 @@
     {"key":"木头","name":"木头｜App","type":3,"api":"csp_Shark","playerType":1,"ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="},
     {"key":"1905","name":"1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 
-    {"key":"可可影视","name":"可可｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可可影视.json"},
-    {"key":"海纳影视","name":"海纳｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/海纳影视.json"},
+    {"key":"可可影视","name":"可可｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/可可影视.json"},
+    {"key":"海纳影视","name":"海纳｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/海纳影视.json"},
 
-    {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/爱奇艺弹幕.js"},
-    {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/腾讯弹幕.js"},
-    {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/优酷弹幕.js"},
-    {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/芒果弹幕.js"},
-    {"key":"小熊弹幕","name":"小熊｜JS","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/小熊弹幕.js"},
-    {"key":"追剧迷","name":"追剧迷｜JS","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/追剧弹幕.js"},
+    {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/爱奇艺弹幕.js"},
+    {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/腾讯弹幕.js"},
+    {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/优酷弹幕.js"},
+    {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/芒果弹幕.js"},
+    {"key":"小熊弹幕","name":"小熊｜JS","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/小熊弹幕.js"},
+    {"key":"追剧迷","name":"追剧迷｜JS","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/追剧弹幕.js"},
     {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com"},
 
-    {"key":"56动漫","name":"56｜动漫","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/56动漫.js"},
-    {"key":"动画片","name":"动画片｜动漫","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/动画片大全.js"},
-    {"key":"路漫漫","name":"路漫漫｜动漫","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/路漫漫.js"},
-    {"key":"异世界","name":"异世界｜动漫","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/异世界.js"},
-    {"key":"短剧合集","name":"短剧｜合集","type":3,"api":"./JS/quark.min.js","ext":"./JS/短剧合集.js","style":{"type":"list"}},
+    {"key":"56动漫","name":"56｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/56动漫.js"},
+    {"key":"动画片","name":"动画片｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/动画片大全.js"},
+    {"key":"路漫漫","name":"路漫漫｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/路漫漫.js"},
+    {"key":"异世界","name":"异世界｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/异世界.js"},
+    {"key":"短剧合集","name":"短剧｜合集","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/quark.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/短剧合集.js","style":{"type":"list"}},
 
 
     {"key":"立播弹幕","name":"立播","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://www.libvio.cc","danmu":true}},

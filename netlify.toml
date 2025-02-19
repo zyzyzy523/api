@@ -1,4 +1,8 @@
 [[redirects]]
-  from = "https://subtle-yeot-c5c491.netlify.app/m.json"
-  to = "http://miaotvs.cn/meow"
+  from = "https://subtle-yeot-c5c491.netlify.app/lives.json"
+  to = "https://raw.gitmirror.com/zyzyzy523/api/main/lives.json"
+  force = true
+[[redirects]]
+  from = "https://subtle-yeot-c5c491.netlify.app/a.json"
+  to = "https://raw.gitmirror.com/zyzyzy523/api/main/a.json"
   force = true

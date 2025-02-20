@@ -10,7 +10,7 @@
       "url": "https://raw.gitmirror.com/zyzyzy523/api/main/l.txt",
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "timeout": "3",
+      "timeout": "10",
       "playerType": 2
     }
   ],

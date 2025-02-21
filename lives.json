@@ -7,9 +7,10 @@
       "name": "TV",
       "type": 0,
       "boot": true,
-      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo":"https://epg.iill.top/logo/{name}.png",
       "url": "https://raw.gitmirror.com/zyzyzy523/api/main/tv.txt",
+      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": "5",
       "playerType": 2
     }

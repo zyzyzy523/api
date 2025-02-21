@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/zyzyzy5231/box/-/raw/master/spider.jar;md5;3e8f092b544b9009e18f2832d5e72186",
+  "spider": "https://jihulab.com/zyzyzy5231/box/-/raw/master/spider.jar;md5;b9584d007155b163aa5cd92a4fd4ceda",
   "wallpaper": "http://tool.teyonds.com/api",
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
@@ -45,7 +45,7 @@
     {"key":"荐片","name":"荐片｜磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":{"danmu":true}},
     {"key":"荣荣","name":"荣荣｜App","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"},
 
-    {"key":"巧技","name":"巧技｜App","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"},
+    {"key":"巧技","name":"巧技｜App","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
     {"key":"蚂蚁","name":"蚂蚁｜App","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":"jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"},
 
 
@@ -111,7 +111,7 @@
     {"key":"夸克多多弹幕","name":"多多｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://duoduo.banye.tech:7086","danmu":true}},
     {"key":"夸克蜡笔弹幕","name":"蜡笔｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://labi.banye.tech:7086","danmu":true}},
     {"key":"夸克至臻弹幕","name":"至臻｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://zhizhen.banye.tech:7086","danmu":true}},
-    {"key":"夸克木偶弹幕","name":"木偶｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://mogg1.banye.tech:7777","danmu":true}},
+    {"key":"夸克木偶弹幕","name":"木偶｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"http://muou.6qu.top","danmu":true}},
     {"key":"夸克六趣弹幕","name":"六趣｜4K弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://liuqu.banye.tech:7086","danmu":true}},
     {"key":"夸克虎斑弹幕","name":"虎斑｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://huban.banye.tech:7086","danmu":true}},
     {"key":"夸克下饭弹幕","name":"下饭｜4K弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://xiafan.banye.tech:7086","danmu":true}},

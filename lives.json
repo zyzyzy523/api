@@ -13,19 +13,7 @@
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": "5",
       "playerType": 2
-    },
-    {
-      "name": "hn",
-      "type": 0,
-      "boot": true,
-      "logo":"https://epg.iill.top/logo/{name}.png",
-      "url": "https://wget.la/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/hnyd.m3u",
-      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "timeout": "5",
-      "playerType": 2
     }
-
   ],
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},

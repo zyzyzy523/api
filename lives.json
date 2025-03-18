@@ -81,6 +81,9 @@
     {"key":"可可影视","name":"可可｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/可可影视.json"},
     {"key":"海纳影视","name":"海纳｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/海纳影视.json"},
     {"key":"秀儿影视","name":"秀儿｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/秀儿影视.json"},
+    {"key":"永乐影视","name":"永乐｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/永乐影视.json"},
+    {"key":"雪糕影视","name":"雪糕｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/雪糕影视.json"},
+
 
     {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/爱奇艺弹幕.js"},
     {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/腾讯弹幕.js"},
@@ -119,6 +122,10 @@
     {"key":"夸搜弹幕","name":"夸搜｜弹幕","type":3,"api":"csp_Qkso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
     {"key":"小纸条弹幕","name":"小纸条｜弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true}},
     {"key":"夸克趣盘搜弹幕","name":"趣盘搜｜弹幕","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
+    {"key":"酷吧电影","name":"酷吧电影｜磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"Mp4电影","name":"Mp4电影｜磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"美剧天堂","name":"美剧天堂｜磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
+
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","indexs":0,"style":{"type":"rect","ratio":1.597},"type":3,"api":"csp_Config","searchable":0,"changeable":0},
     {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},
     {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},

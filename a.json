@@ -8,10 +8,10 @@
       "type": 0,
       "boot": false,
       "logo":"https://epg.iill.top/logo/{name}.png",
-      "url": "https://raw.gitmirror.com/zyzyzy523/api/main/tv.txt",
+      "url": "https://boxapi-1300902957.cos.ap-guangzhou.myqcloud.com/custom/tv.txt",
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "timeout": "5",
+      "timeout": "10",
       "playerType": 2
     }
   ],

@@ -36,51 +36,35 @@
 
     {"key":"韩小圈","name":"韩小圈｜APP","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"洽洽影视","name":"洽洽｜APP","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
-    {"key":"星河","name":"星河｜APP","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="},
-    {"key":"二三","name":"二三｜App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
-    {"key":"油条","name":"油条｜APP","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
     {"key":"HG影视","name":"HG影视｜APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cs.hgyx.vip/api2/api.php/app/"},
     {"key":"1905","name":"1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
-
+    {"key":"耐看影视","name":"耐看｜影视","type":3,"api":"csp_WebNK","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="},
+    {"key":"饭团影视","name":"饭团｜影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"来看影视","name":"来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"小米尘落","name":"尘落｜APP","type":3,"api":"csp_Wetv"},
     {"key":"移动","name":"移动｜APP","type":3,"api":"csp_YD","searchable":1,"quickSearch":1},
     {"key":"荐片","name":"荐片｜磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":{"danmu":true}},
 
 
     {"key":"米兔","name":"米兔｜APP","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"},
     {"key":"光速","name":"光速｜APP","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="},
-    {"key":"优秀","name":"优秀｜APP","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="},
-    {"key":"奇妙","name":"奇妙｜APP","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovLzE1NC4xMi45MS4yMTE6NjY4fDEyMzQ1Njc4OUFCQ0RFRkd8MTIzNDU2Nzg5QUJDREVGR3wxMDY="},
     {"key":"雨滴","name":"雨滴｜APP","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"},
-    {"key":"时常","name":"时常｜App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="},
-    {"key":"优质","name":"优质｜App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="},
     {"key":"玉米","name":"玉米｜APP","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="},
 
 
     {"key":"蝴蝶","name":"蝴蝶｜App","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 
 
-    {"key":"站长影视","name":"站长｜APP","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="},
     {"key":"悠悠影视","name":"悠悠｜APP","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDgsOhw6PDrcORwqLCosKUV8KzwpPCocOiw6jCnMKkwoZhwqrCrMKhwqXCmlrCpMKZwqDCoMKtwprCoMOV5Ya46YSY5o+V5ZCTwqXlh5/kvpHlkbDCtOW+pOintui1tOa7gOetksOQwqHCpcKaWnHClcKjw4TDmMOzwqDCtFNXdMKow7DCvMOtw63DrMKXwofCksKJw6nDlcOmw7DDqFpcUFfCusOYw63DgsOwWmpQV8K9w6vDscOCw63Cp8KiwpTCh8Obw4zDqsObw6bCqsKeV1zCmcKaw43DosOuwpjChcKiwpzCoMKtwprCoMOiwqfCpMKgasKowqLCq8KuwrBhYmJlwqfCpsKqwqfCsGhqZWXCr8KpwqnDmsOqwpxewqDCmMOpwprCpsKZwqHCl8KVwpPCosOyw6PDrsOEw5/CrFdqUMKgw6zDm8Oow7HClMKewpdgwqrCpcKwwqDDtw=="},
-    {"key":"云播影视","name":"云播｜APP","type":3,"api":"csp_AppGetApp","searchable":1,"quickSearch":0,"filterable":0,"ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fw6DDmMOuw5rDqsKjXsKkwqbDssOVw5vDqcOqYcKTwp/CncKow5TDqsOiwqjCo8KYwqBXwqXCk8Khw4LDqMKcwqTCh8Kfw6vDl8KhwrPCmlrCmcKewpnDrcOJwqvCqsKzWlxQV8Otw5zDqsKgwrRTV8KL5Ya16YWh5pCY5ZGdwqXlh6bkvYrlkKdq5b6h6Ki/6La35ryK562Sw5daXFBXwrrDmMOtw4TDn8KsV2pQwqDDoMOjw5zDpWVkZWjDpsOcw53DpMKsZ2VoV8KlwpPCocK6w5/CpnnCplfCs8KTwqHDpsOjwpbCm2Jkwq7Cq8Onw6LDncKeYmRlwrHCmsKmwpnCocKbwpXCkcKUw57DpcOtwqDCtFPCq1fCpcOsw5jDrMKmw5vCmsKVwp7CpMKgwq3CmsKgw4fCosKqwpnCnMOlw5TCqcKuwqhjUFjCh8Oiw6HDnsOow7HCplB+woTCmcKkwqrCp8KqblDCh8KZw6fCqcKuwrTCmsKrZmRZwpnCtMOqw6nDpsKYwofClcKSw4TDnMOuwqjCr2ZnXmPCr8KTwqLDhMOCwod9fFzCmcOfw6PDpMOfU3fClcKTw6TDosKjwpnCvcKbwqLCn8Kdw57CosKrwqrCrGFgXmDCp8KjwprDjMObwpnCkcKiwpnCqMKowq3CsMKoZmZXXMKZwprDm8Olw6bCosKnc8Kiw6jDpsOtw4nDrMKiwqTCn8KTw6jDn8OMw57DnsKcwqLClcKTw63DpsKhwrPCmsKHwqLCpcKVw7bCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDssOUw6nDsMObwqHCl2BhwqvCqcKhw7Y="},
 
-    {"key":"耐看影视","name":"耐看｜影视","type":3,"api":"csp_WebNK","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="},
-
-
-    {"key":"饭团影视","name":"饭团｜影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"来看影视","name":"来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"全网影视","name":"全网｜影视","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.91qkw.com"},
-
-    {"key":"小米尘落","name":"尘落｜APP","type":3,"api":"csp_Wetv"},
-    {"key":"小米电影","name":"电影｜APP","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},
-
+    {"key":"星河","name":"星河｜APP","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="},
+    {"key":"二三","name":"二三｜App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"},
 
 
     {"key":"真心影视","name":"真心｜影视","type":3,"api":"csp_WebGZ","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"木头","name":"木头｜App","type":3,"api":"csp_Shark","playerType":1,"ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="},
 
     {"key":"可可影视","name":"可可｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/可可影视.json"},
     {"key":"海纳影视","name":"海纳｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/海纳影视.json"},
-    {"key":"秀儿影视","name":"秀儿｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/秀儿影视.json"},
     {"key":"永乐影视","name":"永乐｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/永乐影视.json"},
     {"key":"雪糕影视","name":"雪糕｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/雪糕影视.json"},
     {"key":"火车影视","name":"火车｜APP","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/火车影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
@@ -96,6 +80,10 @@
     {"key":"魔力高清","name":"魔力｜影视","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/魔力高清.js"},
     {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com"},
     {"key":"80S","name":"80S｜磁力","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"修罗影视","name":"修罗｜磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/修罗影视.json"},
+    {"key":"狐狸君","name":"狐狸君｜磁力","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/狐狸君.json"},
+    {"key":"布谷TV","name":"布谷TV｜磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/布谷TV.json"},
+
 
     {"key":"56动漫","name":"56｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/56动漫.js"},
     {"key":"动画片","name":"动画片｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/动画片大全.js"},

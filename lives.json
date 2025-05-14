@@ -42,7 +42,6 @@
     {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/腾讯视频.js"},
     {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/优酷视频.js"},
     {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/芒果视频.js"},
-    {"key":"思古影视","name":"思古｜影视","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/思古影视.js"},
 
     {"key":"海纳影视","name":"海纳｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/海纳影视.json"},
     {"key":"雪糕影视","name":"雪糕｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/雪糕影视.json"},
@@ -54,7 +53,6 @@
     {"key":"修罗影视","name":"修罗｜磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/修罗影视.json"},
     {"key":"狐狸君","name":"狐狸君｜磁力","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/狐狸君.json"},
     {"key":"布谷TV","name":"布谷TV｜磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/布谷TV.json"},
-    {"key":"酷吧电影","name":"酷吧电影｜磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Mp4电影","name":"Mp4电影｜磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"美剧天堂","name":"美剧天堂｜磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
 

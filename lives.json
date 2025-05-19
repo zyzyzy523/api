@@ -19,40 +19,46 @@
     {"key":"豆瓣","name":"🔍豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"天天","name":"⛅️天天","type":3,"api":"csp_TianTian","searchable":1,"playerType": 1,"quickSearch":1,"filterable":1,"ext":{"site":"aHR0cDovL3R0LnlzZHFqcy5jbg=="},"timeout":10},
     {"key":"苹果","name":"🍎小苹果","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-    {"key":"csp_ReBo","name":"☀️热播","type":3,"api":"csp_TianTian","playerType": 1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"aHR0cDovL3YucmJvdHYuY24="}},
-    {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_ReBo","name":"☀️热播","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0, "ext":{"url":"http://v.rbotv.cn"}},
     {"key":"浪酷弹幕版","name":"👓浪酷","type":3,"api":"csp_TianTian", "playerType": 1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"aHR0cDovL3YubGt1eXMuY24="},"timeout":10},
+    {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"厂长","name":"📔厂长","jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://www.czzymovie.com/"},
-    {"key":"农民影视","name":"农民｜影视","jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},
-    {"key":"移动","name":"移动｜APP","type":3,"api":"csp_YD","searchable":1,"quickSearch":1},
-    {"key":"韩小圈","name":"韩小圈｜APP","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"金牌影视","name":"🥇金牌","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/金牌影视.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
+    {"key":"移动","name":"移动","type":3,"api":"csp_YD","searchable":1,"quickSearch":1},
+    {"key":"韩小圈","name":"韩小圈","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"驿站","name":"驿站｜APP","jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","type":3,"quickSearch":1,"api":"csp_AppMuou","ext":{"url":"http://110.42.107.216:56677","dataKey":"d7378557d1d9c924","dataIv":"fb4594f622f34fea","jxurl":"https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"}},
-    {"key":"菲儿影视","name":"菲儿｜APP","jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","type":3,"api":"csp_AppFerr","ext":{"url":"https://appcms.freehd.vip","dataKey":"be5348dfb0c3c283","dataIv":"5f5449dd14313217"}},
-    {"key":"彼岸","name":"彼岸｜APP","jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://172.247.44.217:30012","dataKey":"JLa1oRdL6+eK7@M)","dataIv":"JLa1oRdL6+eK7@M)","deviceId":"","version":""}},
-
-
-    {"key":"csp_SaoHuo","name":"🔥骚火","jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
-    {"key":"csp_Qiyou","name":"🦌奇优","jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"️爱看Bot","name":"⛅️机器人", "jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"厂长影视","name":"厂长｜影视","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://www.czzymovie.com/"},
+    {"key":"农民影视","name":"农民｜影视","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},
+    {"key":"私人影视","name":"私人｜影视","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_Siren"},
+    {"key":"云播影视","name":"云播｜影视","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_Tvyb"},
+    {"key":"尘落影视","name":"尘落｜影视","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
+    {"key":"来看影视","name":"来看｜影视","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"耐看影视","name":"耐看｜影视","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_WebNK","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="},
+    {"key":"csp_DiDuan","name":"低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Kuaikan","name":"快看｜影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 
-    {"key":"洽洽影视","name":"洽洽｜APP","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
-    {"key":"白白影视","jar":"https://d.kstore.dev/download/11396/5-13.jar;md5;ee38cccf7fa23258b09670785aa96665","name":"白白｜影视","type":3,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},
+    {"key":"驿站","name":"驿站|APP","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"quickSearch":1,"api":"csp_AppMuou","ext":{"url":"http://110.42.107.216:56677","dataKey":"d7378557d1d9c924","dataIv":"fb4594f622f34fea","jxurl":"https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"}},
+    {"key":"菲儿影视","name":"菲儿|APP","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_AppFerr","ext":{"url":"https://appcms.freehd.vip","dataKey":"be5348dfb0c3c283","dataIv":"5f5449dd14313217"}},
+    {"key":"彼岸","name":"彼岸|APP","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://172.247.44.217:30012","dataKey":"JLa1oRdL6+eK7@M)","dataIv":"JLa1oRdL6+eK7@M)","deviceId":"","version":""}},
+    {"key":"在看","name":"在看|APP","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://149.88.64.161:9525","dataKey":"123456789ABCDEFG","dataIv":"123456789ABCDEFG","deviceId":"","version":""}},
+
+    {"key":"csp_SaoHuo","name":"🔥骚火","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
+    {"key":"csp_Qiyou","name":"🦌奇优","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"️爱看Bot","name":"⛅️机器人", "jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"洽洽影视","name":"洽洽","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="},
+    {"key":"白白影视","jar":"https://d.kstore.dev/download/11396/5-17.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658","name":"白白｜影视","type":3,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},
+
 
     {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/爱奇艺.js"},
     {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/腾讯视频.js"},
     {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/优酷视频.js"},
     {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/芒果视频.js"},
 
+    {"key":"金牌影视","name":"金牌","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/金牌影视.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
     {"key":"海纳影视","name":"海纳｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/海纳影视.json"},
     {"key":"雪糕影视","name":"雪糕｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/雪糕影视.json"},
-    {"key":"火车影视","name":"火车｜APP","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/火车影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-    {"key":"美帕影视","name":"美帕｜APP","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/美帕影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+    {"key":"火车影视","name":"火车","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/火车影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+    {"key":"美帕影视","name":"美帕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/美帕影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
     {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com"},
     {"key":"80S","name":"80S｜磁力","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -98,12 +104,10 @@
   ],
 
   "parses": [
-
-
     {
-      "name": "羊羊",
-      "type": 1,
-      "url": "http://117.50.184.199:94/api.php/?key=1&url=",
+      "name": "无上",
+      "type": "1",
+      "url": "https://mfjx.iwsyy.xyz/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -126,6 +130,96 @@
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "QD4K",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/xiafan.php?url=",
+      "ext": {
+        "flag": [
+          "QD4K",
+          "iyf",
+          "duanju",
+          "gzcj",
+          "GTV",
+          "GZYS",
+          "weggz",
+          "Ace"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "咸鱼",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"
+        }
+      }
+    },
+    {
+      "name": "虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "淘片",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "七七",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "盘古",
+      "type": 0,
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://yemu.xyz/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
         }
       }
     }

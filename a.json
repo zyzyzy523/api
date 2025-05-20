@@ -12,7 +12,7 @@
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": "15",
-      "playerType": 1
+      "playerType": 2
     },
     {
       "name": "湖南移动",
@@ -23,7 +23,7 @@
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": "30",
-      "playerType": 1
+      "playerType": 2
     }
   ],
   "sites": [
@@ -145,6 +145,64 @@
       }
     },
     {
+      "name": "云",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "HLS",
+      "type": 0,
+      "url": "https://jx.hls.one/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
       "name": "线路2",
       "type": "1",
       "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
@@ -152,6 +210,32 @@
         "header": {
           "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
+      }
+    },
+    {
+      "name": "77",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
       }
     },
     {
@@ -259,6 +343,10 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
+
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ],
   "ijk": [
     {
       "group": "软解码",
@@ -290,7 +378,7 @@
         },
         {
           "category": 1,
-          "name": "http-detect-range-support",
+          "name": "http-detect-rangeupport",
           "value": "0"
         },
         {
@@ -310,7 +398,7 @@
         },
         {
           "category": 4,
-          "name": "enable-accurate-seek",
+          "name": "enable-accurateeek",
           "value": "0"
         },
         {
@@ -370,7 +458,7 @@
         },
         {
           "category": 1,
-          "name": "http-detect-range-support",
+          "name": "http-detect-rangeupport",
           "value": "0"
         },
         {
@@ -390,7 +478,7 @@
         },
         {
           "category": 4,
-          "name": "enable-accurate-seek",
+          "name": "enable-accurateeek",
           "value": "0"
         },
         {
@@ -420,8 +508,5 @@
         }
       ]
     }
-  ],
-  "ads": [
-    "static-mozai.4gtv.tv"
   ]
 }

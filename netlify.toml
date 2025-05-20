@@ -1,7 +1,8 @@
 [[redirects]]
-  from = "https://subtle-yeot-c5c491.netlify.app/1lives.json"
-  to = "https://raw.gitmirror.com/zyzyzy523/api/main/lives.json"
+  from = "https://subtle-yeot-c5c491.netlify.app/tv/*"
+  to = "http://175.0.78.209:9901/tsfile/live/:splat"
   force = true
+  status = 302
 [[redirects]]
   from = "https://subtle-yeot-c5c491.netlify.app/1a.json"
   to = "https://raw.gitmirror.com/zyzyzy523/api/main/a.json"

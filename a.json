@@ -8,21 +8,10 @@
       "type": 0,
       "boot": false,
       "logo":"https://epg.iill.top/logo/{name}.png",
-      "url": "https://boxapi-1300902957.cos.ap-guangzhou.myqcloud.com/custom/tv.txt",
+      "url": "https://raw.gitmirror.com/zyzyzy523/api/main/tv.txt",
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": "15",
-      "playerType": 2
-    },
-    {
-      "name": "湖南移动",
-      "type": 0,
-      "boot": false,
-      "logo":"https://epg.iill.top/logo/{name}.png",
-      "url": "https://boxapi-1300902957.cos.ap-guangzhou.myqcloud.com/custom/hnyd.txt",
-      "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "timeout": "30",
       "playerType": 2
     }
   ],
@@ -49,13 +38,12 @@
 
     {"key":"橘猫","name":"橘猫｜APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://appcms.jm4k.top","dataKey":"KPEkKAESYi38CQdn","dataIv":"KPEkKAESYi38CQdn","deviceId":"","version":"119"}},
     {"key":"仓鼠","name":"仓鼠｜APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"https://qjappcms.cs4k.top","dataKey":"Z98KXaLtO2wC1Pte","dataIv":"Z98KXaLtO2wC1Pte","deviceId":"","version":"120"}},
-    {"key":"咖啡","name":"咖啡｜APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://160.202.243.62:2566","dataKey":"qwertyuiopqwerty","dataIv":"qwertyuiopqwerty","deviceId":"","version":"120"}},
     {"key":"忍者","name":"忍者｜APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://mfxs123.sbs","dataKey":"1234567887654321","dataIv":"1234567887654321","deviceId":"","version":""}},
     {"key":"橘子","name":"橘子｜APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://api1.bffree.cn","dataKey":"2015692015692015","dataIv":"2015692015692015","deviceId":"","version":"300"}},
     {"key":"在看","name":"在看|APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://149.88.64.161:9525","dataKey":"123456789ABCDEFG","dataIv":"123456789ABCDEFG","deviceId":"","version":""}},
-    {"key":"再看","name":"再看｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://149.88.64.161:8627","dataKey":"123456789ABCDEFG","dataIv":"123456789ABCDEFG","deviceId":"2bb4c10f3e043307dbfc579bd0db23f4e","version":"110"}},
-    {"key":"光速","name":"光速｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"2f085931bcbd83a2bbc8ba1fc66243cd2","version":"112"}},
-    {"key":"人人","name":"人人｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.xiaohys.com","dataKey":"ENonBHeVBoYZhVUV","dataIv":"ENonBHeVBoYZhVUV","deviceId":"298e5fe29c74b35aabb9836ee2f6f449f","version":"166"}},
+    {"key":"再看","name":"再看｜APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://149.88.64.161:8627","dataKey":"123456789ABCDEFG","dataIv":"123456789ABCDEFG","deviceId":"2bb4c10f3e043307dbfc579bd0db23f4e","version":"110"}},
+    {"key":"光速","name":"光速｜APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"2f085931bcbd83a2bbc8ba1fc66243cd2","version":"112"}},
+    {"key":"人人","name":"人人｜APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.xiaohys.com","dataKey":"ENonBHeVBoYZhVUV","dataIv":"ENonBHeVBoYZhVUV","deviceId":"298e5fe29c74b35aabb9836ee2f6f449f","version":"166"}},
 
 
     {"key":"彼岸","name":"彼岸|APP","jar":"https://d.kstore.dev/download/11396/6-3.jar;md5;1fe21e27a6807feb41104539042da3b8","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://172.247.44.217:30012","dataKey":"JLa1oRdL6+eK7@M)","dataIv":"JLa1oRdL6+eK7@M)","deviceId":"","version":""}},

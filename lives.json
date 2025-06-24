@@ -11,7 +11,7 @@
       "url": "https://d.kstore.dev/download/11396/tv.txt",
       "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-      "timeout": "15",
+      "timeout": "10",
       "playerType": 2
     }
   ],
@@ -30,15 +30,13 @@
     {"key":"农民影视","name":"农民｜影视","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},
     {"key":"尘落影视","name":"尘落｜影视","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
     {"key":"来看影视","name":"来看｜影视","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"耐看影视","name":"耐看｜影视","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"api":"csp_WebNK","searchable":1,"quickSearch":1,"filterable":1,"ext":"w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="},
     {"key":"csp_DiDuan","name":"低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看｜影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-    {"key":"晓晓","name":"晓晓｜APP","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://ys.ewo.asia","dataKey":"Z0qTnwyLAJCtuIkI","dataIv":"Z0qTnwyLAJCtuIkI","deviceId":"","version":""}},
     {"key":"瓜萌","name":"瓜萌｜APP","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.guahd.com","dataKey":"f2A7D4B9E8C16531","dataIv":"f2A7D4B9E8C16531","deviceId":"","version":""}},
     {"key":"水滴","name":"水滴｜APP","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://1.94.105.93","dataKey":"gKdQKLbwhhLp4Ytv","dataIv":"gKdQKLbwhhLp4Ytv","deviceId":"","version":""}},
     {"key":"梦缘","name":"梦缘｜APP","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://150.138.84.88:44444","dataKey":"fdnwxwnkyylwdyqh","dataIv":"fdnwxwnkyylwdyqh","deviceId":"29ac7568b4dc23ca9a40b6ca5b7cc6f68","version":"520"}},
-
+    {"key":"晚枫","name":"晚枫｜APP","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://111.180.202.216:999","dataKey":"fjhndgbjidfhgjsd","dataIv":"fjhndgbjidfhgjsd","deviceId":"2a7baa6ca6f46308cbf1d939bab0586f3","version":"120"}},
 
     {"key":"橘猫","name":"橘猫｜APP","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://appcms.jm4k.top","dataKey":"KPEkKAESYi38CQdn","dataIv":"KPEkKAESYi38CQdn","deviceId":"","version":"119"}},
     {"key":"仓鼠","name":"仓鼠｜APP","jar":"https://d.kstore.dev/download/11396/6-15.jar;md5;08b61f009f77be1627bf982e8bd5a9bd","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"https://qjappcms.cs4k.top","dataKey":"Z98KXaLtO2wC1Pte","dataIv":"Z98KXaLtO2wC1Pte","deviceId":"","version":"120"}},

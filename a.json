@@ -29,7 +29,7 @@
     {"key":"韩小圈","name":"韩小圈","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1},
 
     {"key":"厂长影视","name":"厂长｜影视","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://www.czzymovie.com/"},
-    {"key":"农民影视","name":"农民｜影视","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},
+    {"key":"农民影视","name":"农民｜影视","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XYQHiker/农民影视.json"},
     {"key":"尘落影视","name":"尘落｜影视","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
     {"key":"来看影视","name":"来看｜影视","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
@@ -38,7 +38,6 @@
     {"key":"魔方","name":"魔方｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://mfsp33.top","dataKey":"1234567887654321","dataIv":"1234567887654321","deviceId":"","version":""}},
 
     {"key":"瓜萌","name":"瓜萌｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.guahd.com","dataKey":"f2A7D4B9E8C16531","dataIv":"f2A7D4B9E8C16531","deviceId":"","version":""}},
-    {"key":"水滴","name":"水滴｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://1.94.105.93","dataKey":"gKdQKLbwhhLp4Ytv","dataIv":"gKdQKLbwhhLp4Ytv","deviceId":"","version":""}},
     {"key":"梦缘","name":"梦缘｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://150.138.84.88:44444","dataKey":"fdnwxwnkyylwdyqh","dataIv":"fdnwxwnkyylwdyqh","deviceId":"29ac7568b4dc23ca9a40b6ca5b7cc6f68","version":"520"}},
 
     {"key":"橘猫","name":"橘猫｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://appcms.jm4k.top","dataKey":"KPEkKAESYi38CQdn","dataIv":"KPEkKAESYi38CQdn","deviceId":"","version":"119"}},
@@ -66,11 +65,8 @@
     {"key":"优酷视频","name":"优酷｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/优酷视频.js"},
     {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/芒果视频.js"},
 
-    {"key":"金牌影视","name":"金牌","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/金牌影视.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
-    {"key":"海纳影视","name":"海纳｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/海纳影视.json"},
-    {"key":"雪糕影视","name":"雪糕｜影视","type":3,"api":"csp_XBPQ","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/雪糕影视.json"},
-    {"key":"火车影视","name":"火车","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/火车影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-    {"key":"美帕影视","name":"美帕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/PY/美帕影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+    {"key":"电影牛","name":"影牛｜影视","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XYQHiker/电影牛.json"},
+
 
     {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com"},
     {"key":"80S","name":"80S｜磁力","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
@@ -79,8 +75,11 @@
     {"key":"布谷TV","name":"布谷TV｜磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/布谷TV.json"},
     {"key":"Mp4电影","name":"Mp4电影｜磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"美剧天堂","name":"美剧天堂｜磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"荐片","name":"荐片｜磁力","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df", "api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"},
+    {"key":"电影港","name":"电影港｜磁力","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XYQHiker/电影港.json"},
 
 
+    {"key":"巴士动漫","name":"巴士｜动漫","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XYQHiker/巴士动漫.json"},
     {"key":"动画片","name":"动画片｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/动画片大全.js"},
     {"key":"56动漫","name":"56｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/56动漫.js"},
     {"key":"动画片","name":"动画片｜动漫","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/drpy2.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/动画片大全.js"},

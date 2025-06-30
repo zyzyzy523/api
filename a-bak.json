@@ -48,7 +48,7 @@
     {"key":"再看","name":"再看｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://149.88.64.161:8627","dataKey":"123456789ABCDEFG","dataIv":"123456789ABCDEFG","deviceId":"2bb4c10f3e043307dbfc579bd0db23f4e","version":"110"}},
     {"key":"光速","name":"光速｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"2f085931bcbd83a2bbc8ba1fc66243cd2","version":"112"}},
     {"key":"人人","name":"人人｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.xiaohys.com","dataKey":"ENonBHeVBoYZhVUV","dataIv":"ENonBHeVBoYZhVUV","deviceId":"298e5fe29c74b35aabb9836ee2f6f449f","version":"166"}},
-    {"key":"优质","name":"优质｜APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df", "type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://apiapplbys.lbys.app:5678","dataKey":"apiapplbyskey168","dataIv":"apiapplbyskey168","deviceId":"","version":"107"}},
+
 
     {"key":"彼岸","name":"彼岸|APP","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://172.247.44.217:30012","dataKey":"JLa1oRdL6+eK7@M)","dataIv":"JLa1oRdL6+eK7@M)","deviceId":"","version":""}},
 
@@ -75,7 +75,7 @@
     {"key":"布谷TV","name":"布谷TV｜磁力","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XBPQ/布谷TV.json"},
     {"key":"Mp4电影","name":"Mp4电影｜磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"美剧天堂","name":"美剧天堂｜磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"荐片","name":"荐片｜磁力",  "api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"},
+    {"key":"荐片","name":"荐片｜磁力","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df", "api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"},
     {"key":"电影港","name":"电影港｜磁力","jar":"https://d.kstore.dev/download/11396/6-30.jar;md5;b870bccfad19da7530656e50c54e67df","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XYQHiker/电影港.json"},
 
 
@@ -108,33 +108,6 @@
     {"key":"夸搜弹幕","name":"夸搜｜弹幕","type":3,"api":"csp_Qkso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
     {"key":"小纸条弹幕","name":"小纸条｜弹幕","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true}},
     {"key":"夸克趣盘搜弹幕","name":"趣盘搜｜弹幕","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
-
-
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"天天","name":"⛅️天天┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 1}, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"浪酷版","name":"👓浪酷┃秒播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 2}, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"小苹果","name":"🍎苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"素白白","name":"🐇白白┃直连","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"小红","name":"🐷小红┃App","type": 3,"api":"csp_XiaoHongGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"时常","name":"🐥时常┃App","type": 3,"api":"csp_ShiChangGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"晴天","name":"☀️晴天┃App","type": 3,"api":"csp_Sun4kGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"榴莲","name":"🍋榴莲┃App","type": 3,"api":"csp_LiulianGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"二小","name":"🦢二小┃4K","type":3,"api":"csp_ErXiaoGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"立播版","name":"🐰立播┃4K","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1, "timeout": 30},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"表哥","name":"👨🏻‍🦱表哥┃4K","type":3,"api":"csp_DbgGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"至臻","name":"💌至臻┃4K","type":3,"api":"csp_ZhiZhenGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"闪电","name":"🌈闪电┃4K","type":3,"api":"csp_ShanDianGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"虎斑","name":"🐯虎斑┃4K","type":3,"api":"csp_HuBanGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
 
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","indexs":0,"style":{"type":"rect","ratio":1.597},"type":3,"api":"csp_Config","searchable":0,"changeable":0},
     {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/huya2.js","style":{"type":"rect","ratio":1.755},"playerType":"2","searchable": 0,"quickSearch": 0,"changeable":0},

@@ -25,11 +25,10 @@
     {"key":"行动","name":"行动｜APP","type":3,"api":"csp_AppSy","ext":{"url":"http://160.202.246.9:2356","key1":"aassddwwxxllsx1x","key2":"aassddwwxxllsx1x","key3":"aassddwwxxllsx1x"}},
 
 
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"素白白","name":"🐇白白┃直连","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"小红","name":"🐷小红┃App","type": 3,"api":"csp_XiaoHongGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"小红","name":"🐷小红┃4K","type": 3,"api":"csp_XiaoHongGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"咖啡","name":"🍫咖啡┃4K","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"时常","name":"🐥时常┃App","type": 3,"api":"csp_ShiChangGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"晴天","name":"☀️晴天┃App","type": 3,"api":"csp_Sun4kGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
     {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"榴莲","name":"🍋榴莲┃App","type": 3,"api":"csp_LiulianGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
@@ -38,6 +37,8 @@
     {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1, "timeout": 10},
     {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"素白白","name":"🐇白白┃直连","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+
 
 
 

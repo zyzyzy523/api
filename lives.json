@@ -17,38 +17,40 @@
   ],
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
-    {"key":"csp_ReBo","name":"☀️热播","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0, "ext":{"url":"http://v.rbotv.cn"}},
-    {"key":"天天","name":"⛅️天天","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"}},
-    {"key":"浪酷弹幕版","name":"👓浪酷","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"}},
-    {"key":"苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+
+
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"天天","name":"⛅️天天┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 1}, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"浪酷弹幕版","name":"👓浪酷┃秒播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 2}, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"苹果","name":"🍎苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"小红","name":"🐷小红┃App","type": 3,"api":"csp_XiaoHongGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"时常","name":"🐥时常┃App","type": 3,"api":"csp_ShiChangGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"晴天","name":"☀️晴天┃App","type": 3,"api":"csp_Sun4kGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"榴莲","name":"🍋榴莲┃App","type": 3,"api":"csp_LiulianGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"素白白","name":"🐇白白┃直连","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"韩小圈","name":"🦄韩圈┃App","type": 3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"厂长影视","name":"🌸厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+
+
     {"key":"移动","name":"移动","type":3,"api":"csp_YD","searchable":1,"quickSearch":1},
     {"key":"行动","name":"行动｜APP","type":3,"api":"csp_AppSy","ext":{"url":"http://160.202.246.9:2356","key1":"aassddwwxxllsx1x","key2":"aassddwwxxllsx1x","key3":"aassddwwxxllsx1x"}},
-
-
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"咖啡","name":"🍫咖啡┃4K","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"小红","name":"🐷小红┃4K","type": 3,"api":"csp_XiaoHongGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"时常","name":"🐥时常┃App","type": 3,"api":"csp_ShiChangGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"晴天","name":"☀️晴天┃App","type": 3,"api":"csp_Sun4kGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"榴莲","name":"🍋榴莲┃App","type": 3,"api":"csp_LiulianGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"韩小圈","name":"韩小圈","type":3,"api":"csp_HanXiaoQuanGuard","searchable":1,"quickSearch":1,"filterable":1},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"️爱看Bot","name":"⛅️机器人", "type":3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"filterable":1},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"素白白","name":"🐇白白┃直连","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
-
-
-
-
-
-    {"key":"厂长影视","name":"厂长｜影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1, "ext":"https://www.czzymovie.com/"},
     {"key":"农民影视","name":"农民｜影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/XYQHiker/农民影视.json"},
     {"key":"尘落影视","name":"尘落｜影视","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"ext":"https://v.wetv.wang"},
     {"key":"来看影视","name":"来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_DiDuan","name":"低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看｜影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
+
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"️爱看Bot","name":"⛅️爱看┃直连","type": 3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1, "timeout": 10},
+
 
 
     {"key":"魔方","name":"魔方｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://mfsp33.top","dataKey":"1234567887654321","dataIv":"1234567887654321","deviceId":"","version":""}},
@@ -96,190 +98,58 @@
     {"key":"短剧合集","name":"短剧｜合集","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/quark.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/短剧合集.js","style":{"type":"list"}},
 
 
-    {"key":"玩偶哥哥","name":"玩偶｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/wogg.json"},
-    {"key":"木偶","name":"木偶｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/mogg.json"},
-    {"key":"蜡笔","name":"蜡笔｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/lb.json"},
-    {"key":"至臻","name":"至臻｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/zz.json"},
-    {"key":"多多","name":"多多｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/yyds.json"},
-    {"key":"欧哥","name":"欧哥｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/og.json"},
-    {"key":"二小","name":"二小｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/ex.json"},
-    {"key":"大玩","name":"大玩｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/dawo.json"},
-    {"key":"虎斑","name":"虎斑｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/hb.json"},
-    {"key":"闪电","name":"闪电｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/sd.json"},
-    {"key":"奥秘","name":"奥秘｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/am.json"},
-    {"key":"团长","name":"团长｜4K弹幕","type":3,"api":"csp_PanWebTz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-    {"key":"雷鲸","name":"雷鲸｜4K弹幕","type":3,"api":"csp_PanWebShareCloudLJ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"list","ratio":1.433},"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/lj.json"},
-    {"key":"海绵","name":"海绵｜4K弹幕","type":3,"api":"csp_PanWebShareCloudHM","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"list","ratio":1.433},"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/hm.json"},
-    {"key":"夸父","name":"夸父｜4K弹幕","type":3,"api":"csp_PanWebShareCloudKF","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"list","ratio":1.433},"ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JSON/kf.json"},
-    {"key":"趣盘","name":"趣盘｜4K弹幕","type":3,"api":"csp_PanWebQu","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"style":{"type":"list","ratio":1.433},"ext":{"url":"https://www.qupanshe.com"}},
-    {"key":"盘库","name":"盘库｜4K弹幕","type":3,"api":"csp_PanWebKuBa","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"url":"https://panku8.com,https://yipanso.com"}},
-    {"key":"双星","name":"双星｜4K弹幕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/双星.js","style":{"type":"list"}},
-    {"key":"懒盘","name":"懒盘｜4K弹幕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/懒盘.js","style":{"type":"list"}},
-    {"key":"百酷","name":"百酷｜4K弹幕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/百酷.js","style":{"type":"list"}},
-    {"key":"校长","name":"校长｜4K弹幕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/校长.js","style":{"type":"list"}},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"百度趣盘","name":"🤪度趣┃4K","type":3,"api":"csp_BaiduQuPanGuard","searchable":1,"filterable":1,"changeable":0, "style":{"type":"list"}, "timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"双星","name":"🤩双星┃4K","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0, "style":{"type":"list"},"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"二小","name":"🦢二小┃4K","type":3,"api":"csp_ErXiaoGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"立播版","name":"🐰立播┃4K","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1, "timeout": 30},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"表哥","name":"👨🏻‍🦱表哥┃4K","type":3,"api":"csp_DbgGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"至臻","name":"💌至臻┃4K","type":3,"api":"csp_ZhiZhenGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"闪电","name":"🌈闪电┃4K","type":3,"api":"csp_ShanDianGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"虎斑","name":"🐯虎斑┃4K","type":3,"api":"csp_HuBanGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"SeedHub","name":"🍀Seed┃4K","type":3,"api":"csp_SeedHubGuard","quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"校长","name":"💮小章┃4K","type":3,"api":"csp_XiaoZhangGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"光影","name":"🎥光影┃4K","type":3,"api":"csp_GuanyingGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"云集","name":"🍊云集┃4K","type":3,"api":"csp_YunJiGuard","quickSearch":1, "changeable":1, "filterable":1,"timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"盘他","name":"🎸盘他┃4K","type":3,"api":"csp_PantaGuard","quickSearch":1, "changeable":1, "filterable":1,"timeout": 25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"雷鲸","name":"🐳雷鲸┃4K","type":3,"api":"csp_LeiJingGuard","quickSearch":1, "changeable":1, "filterable":1,"timeout": 25},
 
-    {"key":"天堂","name":"天堂｜4K弹幕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/天堂.js","style":{"type":"list"}},
-    {"key":"人人电影网","name":"人人｜4K弹幕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/人人电影网.js","style":{"type":"list"}},
-    {"key":"爱搜","name":"爱搜｜4K弹幕","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/爱搜.js","style":{"type":"list"}},
-    {"key":"糖果","name":"糖果｜搜索","type":3,"api":"csp_TGSou","searchable":1,"changeable":0},
-    {"key":"聚搜","name":"聚搜｜搜索","type":3,"api":"csp_PanWebSearch","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-    {"key":"米搜","name":"米搜｜搜索","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/米搜.js","style":{"type":"list"}},
-    {"key":"人人分享站","name":"人人｜搜索","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/人人分享站.js","style":{"type":"list"}},
-    {"key":"全盘","name":"全盘｜搜索","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/全盘.js","style":{"type":"list"}},
-    {"key":"夸克盘搜","name":"盘搜｜搜索","type":3,"api":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/cloud.min.js","ext":"https://raw.gitmirror.com/zyzyzy523/api/main/JS/夸克盘搜.js","style":{"type":"list"}},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"csp_AListGuard","name":"🦋AList","type":3,"api":"csp_AListGuard","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},"ext": "file://TV/alist.json","timeout":15},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"csp_QuPanSouGuard","name":"🤓趣盘┃搜索","type":3,"api":"csp_QuPanSouGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"太极","name":"☯️太极┃搜索","type":3,"api":"csp_TaiChiGuard","searchable":1,"filterable":1,"changeable":0,"ext":{ "taichi": 1},"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"糖果搜","name":"🍬糖果┃搜索","type":3,"api":"csp_TaiChiGuard","searchable":1,"filterable":1,"changeable":0,"ext":{ "taichi": 2},"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"爱盘","name":"❤️爱盘┃搜索","type":3,"api":"csp_AiPanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"盘搜","name":"🙀盘搜┃搜索","type":3,"api":"csp_PanSoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"影搜","name":"😼影子┃搜索","type":3,"api":"csp_YingSoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"云搜","name":"☁️云搜┃搜索","type":3,"api":"csp_YunPanPanGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"度搜","name":"🦈度搜┃搜索","type":3,"api":"csp_BdxdGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"逸搜","name":"🌧逸搜┃搜索","type":3,"api":"csp_TianYiSoGuard","searchable":1,"filterable":1,"changeable":0,"timeout":25},
 
 
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"聚合直播","name":"📽️聚合┃直播","type": 3,"api":"csp_LivingGuard","searchable":1,"quickSearch":0,"filterable":1, "timeout": 10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"快手直播","name":"😎快手┃直播","type": 3,"api":"csp_KsLiveGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"timeout":10},
-    {"jar":"https://d.kstore.dev/download/11396/ok-6-30.jar;md5;6ad24e313c3b82e27338e32339de2f4f","key":"虎牙直播","name":"🐯虎牙┃直播","type": 3,"api":"csp_HuyaGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"timeout":10},
-    {"key":"配置中心","name":"配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.597}}
+
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"聚合直播","name":"📽️聚合┃直播","type": 3,"api":"csp_LivingGuard","searchable":1,"quickSearch":0,"filterable":1, "timeout": 10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"快手直播","name":"😎快手┃直播","type": 3,"api":"csp_KsLiveGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"timeout":10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"虎牙直播","name":"🐯虎牙┃直播","type": 3,"api":"csp_HuyaGuard","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"timeout":10},
+    {"jar":"https://d.kstore.dev/download/11396/ok-7-5.jar;md5;906ce6c31d1cd77bf4cbc5b2318b1e08","key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}}
   ],
 
   "parses": [
-    {
-      "name": "线路1",
-      "type": "1",
-      "url": "https://mfjx.iwsyy.xyz/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "云",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "HLS",
-      "type": 0,
-      "url": "https://jx.hls.one/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "线路2",
-      "type": "1",
-      "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-        }
-      }
-    },
-    {
-      "name": "77",
-      "type": 0,
-      "url": "https://jx.77flv.cc/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "线路3",
-      "type": 0,
-      "url": "http://www.ckplayer.vip/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-        }
-      }
-    },
-    {
-      "name": "线路4",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
-          "referer": "https://jiejie.uk/"
-        }
-      }
-    }
+    {"name":"聚合1","type":3,"url":"Demo"},
+    {"name":"聚合0","type":3,"url":"Web"},
+    {"name":"ikun","type":0,"url":"https://jx.hls.one/?url="},
+    {"name":"77","type":0,"url":"https://jx.77flv.cc/?url="},
+    {"name":"A6","type":0,"url":"https://pl.a6club.com/player/analysis.php?v="},
+    {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
+    {"name":"M3u8TV","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+    {"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+    {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
+    {"name":"XY","type":0,"url":"https://jx.xymp4.cc/?url="},
+    {"name":"推荐","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="},
+    {"name":"臻享","type":1,"url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
+    {"name":"优选","type":1,"url":"http://1.94.221.189:88/algorithm.php?url="}
   ],
 
 

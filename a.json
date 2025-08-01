@@ -68,11 +68,15 @@
     {"jar":"http://pan.aa53.cn/down.php/5fe0e28d4bef5c97252f2d1fce4174ef.jar;md5;5fe0e28d4bef5c97252f2d1fce4174ef","key":"电影港","name":"电影港｜磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boxtest.s3.bitiful.net/XYQHiker/电影港.json"},
     {"jar":"http://pan.aa53.cn/down.php/5fe0e28d4bef5c97252f2d1fce4174ef.jar;md5;5fe0e28d4bef5c97252f2d1fce4174ef","key":"荐片","name":"荐片｜磁力","api":"csp_Jianpian","type":3},
 
+    {"key":"yhdm","name":"🌸樱花┃动漫","type": 3,"api": "csp_YHDMGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 15},
+    {"key":"动漫巴士","name":"🚌巴士┃动漫","type": 3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+
+    {"jar":"http://pan.aa53.cn/down.php/5fe0e28d4bef5c97252f2d1fce4174ef.jar;md5;5fe0e28d4bef5c97252f2d1fce4174ef","key":"曼波动漫","name":"曼波｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454","deviceId":"","version":""}},
+    {"jar":"http://pan.aa53.cn/down.php/5fe0e28d4bef5c97252f2d1fce4174ef.jar;md5;5fe0e28d4bef5c97252f2d1fce4174ef","key":"次元动漫","name":"次元｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://jjjj.nilinili.org","dataKey":"672263e98f232a05","dataIv":"672263e98f232a05","deviceId":"","version":"170"}},
 
     {"key":"星芽短剧","name":"💖星芽┃短剧","type":3,"api":"csp_AppXYGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
     {"key":"甜圈短剧","name":"🌸甜圈┃短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
-    {"key":"yhdm","name":"🌸樱花┃动漫","type": 3,"api": "csp_YHDMGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 15},
-    {"key":"动漫巴士","name":"🚌巴士┃动漫","type": 3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+
 
 
 

@@ -19,13 +19,13 @@
 
 
 
-    {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
     {"key":"天天","name":"⛅️天天┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 1}, "timeout": 10},
+    {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
+    {"key":"浪酷弹幕版","name":"👓浪酷┃秒播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 2}, "timeout": 10},
     {"key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"key":"浪酷弹幕版","name":"👓浪酷┃秒播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"filterable":1,"ext": {"site": 2}, "timeout": 10},
     {"key":"苹果","name":"🍎苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
     {"key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
@@ -47,7 +47,6 @@
 
     {"jar":"http://pan.aa53.cn/down.php/8c309d4f3304a7a7234940044e0c5a13.jar;md5;8c309d4f3304a7a7234940044e0c5a13","key":"橘子","name":"橘子｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"http://t.bffree.cn/1.txt","dataKey":"2015692015692015","dataIv":"2015692015692015","deviceId":"","version":"300"}},
     {"jar":"http://pan.aa53.cn/down.php/8c309d4f3304a7a7234940044e0c5a13.jar;md5;8c309d4f3304a7a7234940044e0c5a13","key":"灵虎","name":"灵虎｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://bind.315999.xyz/89.txt","dataKey":"#getapp@TMD@2025","dataIv":"#getapp@TMD@2025","deviceId":"","version":""}},
-    {"jar":"http://pan.aa53.cn/down.php/8c309d4f3304a7a7234940044e0c5a13.jar;md5;8c309d4f3304a7a7234940044e0c5a13","key":"追忆","name":"追忆｜APP","type":3,"api":"csp_AppSy","ext":{"url":"http://110.42.7.130:1866","key1":"aassddwwxxllsx1x","key2":"2083c87e98b6ce08","key3":"2083c87e98b6ce08"}},
 
 
     {"jar":"http://pan.aa53.cn/down.php/8c309d4f3304a7a7234940044e0c5a13.jar;md5;8c309d4f3304a7a7234940044e0c5a13","key":"农民影视","name":"农民｜影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boxtest.s3.bitiful.net/XYQHiker/农民影视.json"},

@@ -8,7 +8,7 @@
       "type": 0,
       "boot": true,
       "url": "https://boxtest.s3.bitiful.net/tv.txt",
-      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "ua": "AptvPlayer-UA",
       "timeout": "10",
       "playerType": 1
     }

@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/jzZ4ohXr.png;md5;01eff705df814244ef645c78eefab764",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YT6QM5eC.png;md5;b3249d225e1e720653fc6dbf6fde21e6",
   "wallpaper": "http://tool.teyonds.com/api",
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
@@ -35,6 +35,7 @@
     {"key":"️爱看Bot","name":"⛅️爱看┃直连","type": 3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1, "timeout": 10},
     {"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"key":"csp_Ddys","name":"🍄低端┃在线","type": 3,"api":"csp_DdysGuard","searchable":1,"quickSearch":1,"filterable":1, "timeout": 30},
 
     {"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a5fc65006d0ab456/pizazz.png;md5;ebb8499b9b97a48cae594ba75d6f2d5e","key":"移动","name":"移动","type":3,"api":"csp_YD","searchable":1,"quickSearch":1},
     {"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a5fc65006d0ab456/pizazz.png;md5;ebb8499b9b97a48cae594ba75d6f2d5e","key":"瓜萌","name":"瓜萌｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://www.guahd.com/1.txt","dataKey":"f2A7D4B9E8C16531","dataIv":"f2A7D4B9E8C16531","deviceId":"","version":""}},
@@ -49,7 +50,6 @@
 
 
     {"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a5fc65006d0ab456/pizazz.png;md5;ebb8499b9b97a48cae594ba75d6f2d5e","key":"农民影视","name":"农民｜影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boxtest.s3.bitiful.net/XYQHiker/农民影视.json"},
-    {"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a5fc65006d0ab456/pizazz.png;md5;ebb8499b9b97a48cae594ba75d6f2d5e","key":"csp_DiDuan","name":"低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
     {"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a5fc65006d0ab456/pizazz.png;md5;ebb8499b9b97a48cae594ba75d6f2d5e","key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
 
 

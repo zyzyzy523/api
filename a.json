@@ -35,6 +35,7 @@
     {"key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1, "timeout": 10},
     {"key":"csp_Ddys","name":"🍄低端┃在线","type": 3,"api":"csp_DdysGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 30},
 
+
     {"jar":"https://www.lequxiang.com.cn/down.php/d51a53392837a3ec1726c50bb3324234.txt;md5;d51a53392837a3ec1726c50bb3324234","key":"移动","name":"移动","type":3,"api":"csp_YD","searchable":1,"quickSearch":1},
     {"jar":"https://www.lequxiang.com.cn/down.php/d51a53392837a3ec1726c50bb3324234.txt;md5;d51a53392837a3ec1726c50bb3324234","key":"鲸鱼","name":"鲸鱼｜APP","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","dataKey":"AAdgrdghjfgswerA","dataIv":"AAdgrdghjfgswerA","deviceId":"","version":""}},
     {"jar":"https://www.lequxiang.com.cn/down.php/d51a53392837a3ec1726c50bb3324234.txt;md5;d51a53392837a3ec1726c50bb3324234","key":"灵虎","name":"灵虎｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://bind.315999.xyz/89.txt","dataKey":"#getapp@TMD@2025","dataIv":"#getapp@TMD@2025","deviceId":"","version":""}},
@@ -51,6 +52,11 @@
     {"jar":"https://www.lequxiang.com.cn/down.php/d51a53392837a3ec1726c50bb3324234.txt;md5;d51a53392837a3ec1726c50bb3324234","key":"追番","name":"追番丨APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://ysappapi.oss-cn-shenzhen.aliyuncs.com/getapi.txt","dataKey":"A1akVPQmnnE4Fz9Z","dataIv":"A1akVPQmnnE4Fz9Z","deviceId":"","version":"","ua":""}},
     {"jar":"https://www.lequxiang.com.cn/down.php/d51a53392837a3ec1726c50bb3324234.txt;md5;d51a53392837a3ec1726c50bb3324234","key":"万能","name":"万能丨APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://wnvod.cc","site":"","dataKey":"5uBvur6znNUmE3zb","dataIv":"5uBvur6znNUmE3zb","deviceId":"","version":"","ua":""}},
     {"jar":"https://www.lequxiang.com.cn/down.php/d51a53392837a3ec1726c50bb3324234.txt;md5;d51a53392837a3ec1726c50bb3324234","key":"星星","name":"星星丨APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://starani.qcanime.xyz","site":"","dataKey":"123456789StarAni","dataIv":"123456789StarAni","deviceId":"","version":"","ua":"okhttp/3.10.0 BDYS/109.0.0.8"}},
+
+    {"key":"腾讯视频","name":"腾讯｜视频","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"},
+    {"key":"芒果视频","name":"芒果｜视频","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGSP.js"},
+    {"key":"爱奇艺","name":"爱奇艺｜视频","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/movie/js/AQY.js"},
+
 
     {"jar":"https://www.lequxiang.com.cn/down.php/d51a53392837a3ec1726c50bb3324234.txt;md5;d51a53392837a3ec1726c50bb3324234","key":"农民影视","name":"农民｜影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boxtest.s3.bitiful.net/XYQHiker/农民影视.json"},
     {"jar":"https://www.lequxiang.com.cn/down.php/d51a53392837a3ec1726c50bb3324234.txt;md5;d51a53392837a3ec1726c50bb3324234","key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
@@ -132,19 +138,12 @@
   ],
 
   "parses": [
-    {"name":"聚合1","type":3,"url":"Demo"},
-    {"name":"聚合0","type":3,"url":"Web"},
     {"name":"ikun","type":0,"url":"https://jx.hls.one/?url="},
-    {"name":"77","type":0,"url":"https://jx.77flv.cc/?url="},
-    {"name":"A6","type":0,"url":"https://pl.a6club.com/player/analysis.php?v="},
     {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
     {"name":"M3u8TV","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-    {"name":"CK","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-    {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
-    {"name":"XY","type":0,"url":"https://jx.xymp4.cc/?url="},
-    {"name":"推荐","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=94b07e0b2c0e8244&url="},
-    {"name":"臻享","type":1,"url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
-    {"name":"优选","type":1,"url":"http://1.94.221.189:88/algorithm.php?url="}
+    {"name":"盘古","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+    {"name":"夜幕","type":0,"url":"https://yemu.xyz/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}
+
   ],
 
 

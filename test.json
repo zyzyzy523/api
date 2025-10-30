@@ -1,5 +1,5 @@
 {
-  "spider": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7",
+  "spider": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52",
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -31,14 +31,15 @@
     {"key":"123分享","name":"🌂123┃4K","type":3,"api":"csp_Time123Guard","searchable":1,"quickSearch":0, "changeable":0, "filterable":1, "timeout": 25},
 
     {"key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
-    {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
     {"key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
     {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
+    {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
     {"key":"浪酷版","name":"👓浪酷┃秒播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"site": 2}, "timeout": 10},
     {"key":"小苹果","name":"🍎苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
     {"key":"云云","name":"☁️云云┃App","type": 3,"api":"csp_YunYunGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout": 10},
     {"key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
     {"key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"key":"一起","name":"📺一起┃秒播","type": 3,"api":"csp_YqsGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
     {"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
 
     {"key":"韩圈","name":"🦄韩圈┃App","type": 3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},

@@ -1,5 +1,5 @@
 {
-  "spider": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7",
+  "spider": "https://pan.aa53.cn/down.php/d2a93f848870cc173777756886ba4a52.png;d2a93f848870cc173777756886ba4a52",
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
   "lives": [
@@ -27,6 +27,7 @@
     {"key":"云云","name":"☁️云云┃App","type": 3,"api":"csp_YunYunGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout": 10},
     {"key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
     {"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"key":"一起","name":"📺一起┃秒播","type": 3,"api":"csp_YqsGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
 
     {"key":"韩小圈","name":"🦄韩圈┃App","type": 3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
     {"key":"厂长影视","name":"🌸厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
@@ -138,12 +139,10 @@
   ],
 
   "parses": [
-    {"name":"ikun","type":0,"url":"https://jx.hls.one/?url="},
-    {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
-    {"name":"M3u8TV","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-    {"name":"盘古","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-    {"name":"夜幕","type":0,"url":"https://yemu.xyz/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}
-
+    {"name":"推荐","type":1,"url":"http://niiuma.qi-simple.top//nn.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+    {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+    {"name":"77","type":0,"url":"https://jx.77flv.cc/?url="},
+    {"name":"A6","type":0,"url":"https://pl.a6club.com/player/analysis.php?v="}
   ],
 
 

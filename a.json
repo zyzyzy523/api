@@ -14,9 +14,15 @@
     }
   ],
   "parses": [
-    {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
-    {"name":"77","type":0,"url":"https://jx.77flv.cc/?url="},
-    {"name":"A6","type":0,"url":"https://pl.a6club.com/player/analysis.php?v="}
+    {"name":"m3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+    {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
+    {"name":"大米","type":0,"url":"https://jx.dmflv.cc/?url="},
+    {"name":"咸鱼","type":0,"url":"https://jx.xymp4.cc/?url="},
+    {"name":"41","type":0,"url":"http://jiexi41.qmbo.cn/jiexi/?url="},
+    {"name":"43","type":0,"url":"http://jiexi43.qmbo.cn/jiexi/?url="},
+    {"name":"aidouer","type":0,"url":"https://jx.aidouer.net/?url="},
+    {"name":"789","type":0,"url":"https://jiexi.789jiexi.icu:4433/?url="},
+    {"name":"77","type":0,"url":"https://jx.77flv.cc/?url="}
   ],
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},

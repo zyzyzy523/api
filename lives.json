@@ -1,7 +1,7 @@
 {
-  "spider": "https://pan.aa53.cn/down.php/d2a93f848870cc173777756886ba4a52.png;d2a93f848870cc173777756886ba4a52",
+  "spider": "https://pan.aa53.cn/down.php/492b6ac1b5abf9509b10a20ac3abfe89.txt;md5;492b6ac1b5abf9509b10a20ac3abfe89",
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
-  "wallpaper":"http://127.0.0.1:9978/proxy?do=wall",
+  "wallpaper":"https://深色壁纸.xxooo.cf/",
   "lives": [
     {
       "name": "TV",
@@ -15,6 +15,7 @@
   ],
   "parses": [
     {"name":"m3u8","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+    {"name":"剖云","type":0,"url":"https://www.pouyun.com/?url="},
     {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
     {"name":"大米","type":0,"url":"https://jx.dmflv.cc/?url="},
     {"name":"咸鱼","type":0,"url":"https://jx.xymp4.cc/?url="},
@@ -26,22 +27,21 @@
   ],
   "sites": [
     {"key":"豆瓣","name":"🔍豆瓣","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
-
     {"key":"热播","name":"📺热播┃App","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"site": 0}, "timeout": 10},
     {"key":"浪酷弹幕版","name":"👓浪酷┃秒播","type": 3,"api":"csp_TianTianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"site": 2}, "timeout": 10},
-    {"key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
-    {"key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
-    {"key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
-    {"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
-    {"key":"小苹果","name":"🍎苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
-    {"key":"加菲","name":"🐱加菲┃App","type": 3,"api":"csp_JiaFeiGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
-    {"key":"云云","name":"☁️云云┃App","type": 3,"api":"csp_YunYunGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout": 10},
-    {"key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
-    {"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
-    {"key":"一起","name":"📺一起┃秒播","type": 3,"api":"csp_YqsGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
+    {"ext":{"danmu": true},"key":"咖啡","name":"🍫咖啡┃App","type": 3,"api":"csp_KaFeiGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"ext":{"danmu": true},"key":"瓜子","name":"🍉瓜子┃App","type": 3,"api":"csp_GuaziGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
+    {"ext":{"danmu": true},"key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_JpysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
+    {"ext":{"danmu": true},"key":"糯米","name":"🍓糯米┃秒播","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
+    {"ext":{"danmu": true},"key":"小苹果","name":"🍎苹果┃直连","type": 3,"api":"csp_XpgGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout": 10},
+    {"ext":{"danmu": true},"key":"加菲","name":"🐱加菲┃App","type": 3,"api":"csp_JiaFeiGuard","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
+    {"ext":{"danmu": true},"key":"云云","name":"☁️云云┃App","type": 3,"api":"csp_YunYunGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout": 10},
+    {"ext":{"danmu": true},"key":"雄鹰","name":"🦅雄鹰┃App","type": 3,"api":"csp_XiongYingGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"ext":{"danmu": true},"key":"仓鼠","name":"🐹仓鼠┃App","type": 3,"api":"csp_CangShuGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"ext":{"danmu": true},"key":"一起","name":"📺一起┃秒播","type": 3,"api":"csp_YqsGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
 
     {"key":"韩小圈","name":"🦄韩圈┃App","type": 3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
-    {"key":"厂长影视","name":"🌸厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
+    {"key":"厂长影视","name":"📔厂长┃直连","type": 3,"api":"csp_CzzyGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1, "timeout": 10},
     {"key":"荐片-ok","name":"⚔️荐片┃手机","type": 3,"api":"csp_JianpianGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":10},
     {"key":"️爱看Bot","name":"⛅️爱看┃直连","type": 3,"api":"csp_IkanbotGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "timeout": 10},
     {"key":"csp_Btt","name":"🌞比特┃在线","type":3,"api":"csp_BttGuard","searchable":1,"quickSearch":1,"changeable":1, "timeout": 10},
@@ -111,17 +111,17 @@
 
 
 
-    {"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
-    {"key":"立播版","name":"🐰立播┃4K","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1, "timeout": 30},
-    {"key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"key":"小飒","name":"💒小飒┃4K","type":3,"api":"csp_XsayangGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"key":"至臻","name":"💌至臻┃4K","type":3,"api":"csp_ZhiZhenGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"key":"虎斑","name":"🐯虎斑┃4K","type":3,"api":"csp_HuBanGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"key":"SeedHub","name":"🍀种子┃4K","type":3,"api":"csp_SeedHubGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"key":"二小","name":"🦢二小┃4K","type":3,"api":"csp_ErXiaoGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
-    {"key":"双星","name":"🤩双星┃4K","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0, "style":{"type":"list"},"timeout":25},
+    {"ext":{"danmu": true},"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"changeable":1,"timeout":30},
+    {"ext":{"danmu": true},"key":"立播版","name":"🌟立播┃4K","type":3,"api":"csp_LibvioGuard","searchable":1,"filterable":1,"changeable":1, "timeout": 30},
+    {"ext":{"danmu": true},"key":"蜡笔","name":"👠蜡笔┃4K","type":3,"api":"csp_LabiGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"ext":{"danmu": true},"key":"木偶","name":"🪵木偶┃4K","type":3,"api":"csp_MuouGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"ext":{"danmu": true},"key":"多多","name":"🪅多多┃4K","type":3,"api":"csp_DuoDuoGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"ext":{"danmu": true},"key":"小飒","name":"💒小飒┃4K","type":3,"api":"csp_XsayangGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"ext":{"danmu": true},"key":"至臻","name":"💌至臻┃4K","type":3,"api":"csp_ZhiZhenGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"ext":{"danmu": true},"key":"虎斑","name":"🐯虎斑┃4K","type":3,"api":"csp_HuBanGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"ext":{"danmu": true},"key":"SeedHub","name":"🍀种子┃4K","type":3,"api":"csp_SeedHubGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"ext":{"danmu": true},"key":"二小","name":"🦢二小┃4K","type":3,"api":"csp_ErXiaoGuard","searchable":1,"quickSearch":1, "changeable":1, "filterable":1, "timeout": 25},
+    {"ext":{"danmu": true},"key":"双星","name":"🤩双星┃4K","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0, "style":{"type":"list"},"timeout":25},
 
 
     {"key":"光影","name":"🎥光影┃4K","type":3,"api":"csp_GuanyingGuard","searchable":1,"filterable":1,"changeable":0,"timeout":30},
